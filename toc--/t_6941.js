@@ -1,0 +1,1 @@
+c['6941']=[['6942',"CreateDefaultSearchFilter Method","topic_0000000000000E2E.html",0],['6943',"CreateEmptySearchFilter Method","topic_0000000000000E2F.html",0],['6944',"CreateSearchFilter Method","topic_0000000000000E2D.html",0]];

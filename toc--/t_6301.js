@@ -1,0 +1,1 @@
+c['6301']=[['6302',"NutrientContentClaim Constructor","topic_0000000000000C61_overloads--.html",1],['6305',"Properties","topic_0000000000000C60_props--.html",1],['6316',"Methods","topic_0000000000000C60_methods--.html",1]];

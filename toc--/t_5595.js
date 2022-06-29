@@ -1,0 +1,1 @@
+c['5595']=[['5596',"NLogLogger Constructor","topic_0000000000000B0D.html",0],['5597',"Properties","topic_0000000000000B0C_props--.html",1],['5603',"Methods","topic_0000000000000B0C_methods--.html",1]];

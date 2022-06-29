@@ -1,0 +1,1 @@
+search_result['10481']=["topic_0000000000001854.html","OldFoodVisitor.LoggerFactory Property","Gets the logger factory."];

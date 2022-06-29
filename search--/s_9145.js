@@ -1,0 +1,1 @@
+search_result['9145']=["topic_0000000000001535.html","GuidComparer Class","Compares Guid values by byte order left-to-right as a pair of UInt64 values.\r\nUsed for ensuring consistent hash codes in data structures where ordering of entities and associated values\r\ndoesn\u0027t matte..."];

@@ -1,0 +1,1 @@
+search_result['14010']=["topic_00000000000022D8.html","NHibernateRepository.CheckState Method","Checks the state of the underlying session."];

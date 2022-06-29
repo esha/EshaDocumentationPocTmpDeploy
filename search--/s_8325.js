@@ -1,0 +1,1 @@
+search_result['8325']=["topic_00000000000012E6.html","Food.LegacyYieldKey Property","Gets or sets the legacy ESHA yield key for the food, used in SQL Apps."];

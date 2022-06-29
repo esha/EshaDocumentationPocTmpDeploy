@@ -1,0 +1,1 @@
+search_result['11047']=["topic_000000000000199E.html","QuantityVector.Subtraction Operator",""];

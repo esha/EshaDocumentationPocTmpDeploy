@@ -1,0 +1,1 @@
+c['6840']=[['6841',"Authority Property","topic_0000000000000D88.html",0],['6842',"Regulation Property","topic_0000000000000D89.html",0],['6843',"Rules Property","topic_0000000000000D8A.html",0]];

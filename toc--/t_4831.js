@@ -1,0 +1,1 @@
+c['4831']=[['4832',"DefinedServingWeightConversion Property","topic_000000000000075B.html",0],['4833',"IsServingAmountDynamic Property","topic_0000000000000759.html",0],['4834',"IsServingAmountFixed Property","topic_0000000000000758.html",0],['4835',"ServingWeightInGrams Property","topic_000000000000075A.html",0]];

@@ -1,0 +1,1 @@
+c['5896']=[['5897',"GetUserForSession Method","topic_0000000000000BF9.html",0],['5898',"GetUserForSessionAsync Method","topic_0000000000000BF8.html",0]];

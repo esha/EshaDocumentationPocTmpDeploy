@@ -1,0 +1,1 @@
+c['3847']=[['3848',"Alert() Constructor","topic_0000000000000621.html",0],['3849',"Alert(AlertType, object, object) Constructor","topic_0000000000000620.html",0]];

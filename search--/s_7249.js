@@ -1,0 +1,1 @@
+search_result['7249']=["topic_00000000000010A2.html","BigRationalQuantity.Inverse Property",""];

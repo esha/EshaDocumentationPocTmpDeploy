@@ -1,0 +1,1 @@
+c['1831']=[['1832',"GlycemicLoadComputer Constructor","topic_00000000000014EC.html",0],['1833',"Methods","topic_00000000000014EB_methods--.html",1]];

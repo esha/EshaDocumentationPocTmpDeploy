@@ -1,0 +1,1 @@
+search_result['10976']=["topic_0000000000001974.html","explicit operator System.Explicit Conversion (Quantity to Decimal) Operator","The op_ explicit."];

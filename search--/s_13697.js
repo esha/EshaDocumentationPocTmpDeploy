@@ -1,0 +1,1 @@
+search_result['13697']=["topic_0000000000002237.html","TestUnitOfWorkInterceptor Class","An interceptor for calls to an IUnitOfWork. Stores and retrieves entities from a\r\nTestUnitOfWorkInterceptor\u0027s storage."];

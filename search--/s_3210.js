@@ -1,0 +1,1 @@
+search_result['3210']=["topic_00000000000007D1_overloads--.html","IFoodVisitorFactory.CreateAnalysisVisitor Method","Creates an analysis visitor for the default amount for the food, all nutrients to analyze, all nutrient transforms with weight in grams."];

@@ -1,0 +1,1 @@
+c['4388']=[['4389',"NHibernateRepository\u003cTEntity\u003e Constructor","topic_00000000000022E9_overloads--.html",1],['4392',"Properties","topic_00000000000022E8_props--.html",1],['4394',"Methods","topic_00000000000022E8_methods--.html",1]];

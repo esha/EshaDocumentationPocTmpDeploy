@@ -1,0 +1,1 @@
+search_result['11048']=["topic_000000000000199F.html","QuantityVector.Implicit Conversion (Quantity to QuantityVector) Operator",""];

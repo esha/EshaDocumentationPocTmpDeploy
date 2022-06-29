@@ -1,0 +1,1 @@
+search_result['8954']=["topic_0000000000001498.html","FoodVisitor.IsVisitComplete Property","Gets a value indicating whether this instance\u0027s visit is complete."];

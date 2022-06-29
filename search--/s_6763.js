@@ -1,0 +1,1 @@
+search_result['6763']=["topic_0000000000000F6F.html","AllergenStatement(Nullable\u0026lt;Guid\u0026gt;, Food, Regulation, String, AllergenStatementPrefix, AllergenStatementPrefix, GlobalString, GlobalString, Boolean, EshaUser) Constructor",""];

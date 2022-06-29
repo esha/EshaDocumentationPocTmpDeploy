@@ -1,0 +1,1 @@
+search_result['5091']=["topic_0000000000000BA3.html","PersistentNutrientVector.Slice (Nutrient()) Method","Gets a projection of this vector for the given nutrients."];

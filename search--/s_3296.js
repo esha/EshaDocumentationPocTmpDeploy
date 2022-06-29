@@ -1,0 +1,1 @@
+search_result['3296']=["topic_00000000000007F3.html","IIndexManager Interface","Describes an object that manages full text indexes."];

@@ -1,0 +1,1 @@
+search_result['8402']=["topic_000000000000132C.html","Food.AnalyzeClaimed Method","Analyzes the given amount of the food for the actual (not claimed) nutrients."];

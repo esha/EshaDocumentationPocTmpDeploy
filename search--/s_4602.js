@@ -1,0 +1,1 @@
+search_result['4602']=["topic_0000000000000A71.html","AuthorizationRepositoryAdapter.GetAssociatedEntitiesGroupsFor\u0026lt;TEntity\u0026gt; Method","Gets the groups the specified entity is associated with"];

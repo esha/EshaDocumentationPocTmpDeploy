@@ -1,0 +1,1 @@
+search_result['5412']=["topic_0000000000000C59.html","NccSelectionDetails.Regulation Property",""];

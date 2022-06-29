@@ -1,0 +1,1 @@
+search_result['6684']=["topic_0000000000000F3D.html","AggregateVersion Class","An AggregateVersion is an implementation of a compound identifier. It tracks the state of an entity, and aggregate entities can use the\r\nvalue of an AggregateVersion of children to determine if some p..."];

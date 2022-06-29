@@ -1,0 +1,1 @@
+c['8371']=[['8372',"FoodFolateAndFolicAcidAreComponentsOfFolateWithCorrectScalars Method","topic_000000000000040A.html",0],['8373',"NiacinAndTryptophanAreComponentsOfNiacinEquivalentsWithCorrectScalars Method","topic_000000000000040B.html",0],['8374',"StandardUnitOfWorkLoadsNutrientAggregation Method","topic_0000000000000409.html",0]];

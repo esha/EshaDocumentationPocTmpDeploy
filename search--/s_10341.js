@@ -1,0 +1,1 @@
+search_result['10341']=["topic_00000000000017F0.html","ObservableCancellingSubject\u0026lt;T\u0026gt; Class","A ISubject\u003cT\u003e that allows signaling via a CancellationToken from subscribers to request\r\nsubject cancellation via ObservableCancellingSubject.ObservableCancellation."];

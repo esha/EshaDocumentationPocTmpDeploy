@@ -1,0 +1,1 @@
+search_result['4397']=["topic_00000000000009EF.html","FullTextSearchResult.Equals (Object) Method","Determines whether the specified Object is equal to the current Object."];

@@ -1,0 +1,1 @@
+search_result['10927']=["topic_0000000000001955.html","Quantity.Equality (Quantity, BigRational) Operator",""];

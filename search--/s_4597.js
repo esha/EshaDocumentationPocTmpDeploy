@@ -1,0 +1,1 @@
+search_result['4597']=["topic_0000000000000A6C.html","AuthorizationRepositoryAdapter.CreateEntitiesGroup Method","Creates a new entities group."];

@@ -1,0 +1,1 @@
+search_result['3287']=["topic_00000000000007EF.html","IIndexedRepository.RebuildIndex Method","Purge all documents in the existing full-text search index and rebuild."];

@@ -1,0 +1,1 @@
+c['2545']=[['2546',"NutrientVertex(Nutrient, Expression\u003cFunc\u003cQuantityVectorNutrientQuantityVectorQuantityVector\u003e\u003e) Constructor","topic_000000000000169A.html",0],['2547',"NutrientVertex(Nutrient, Func\u003cQuantityVectorNutrientQuantityVectorQuantityVector\u003e) Constructor","topic_000000000000169B.html",0]];

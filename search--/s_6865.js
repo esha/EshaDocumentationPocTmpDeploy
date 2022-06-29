@@ -1,0 +1,1 @@
+search_result['6865']=["topic_0000000000000FAD.html","AmountCost.ToString Method","Returns a String that represents the current AmountCost."];

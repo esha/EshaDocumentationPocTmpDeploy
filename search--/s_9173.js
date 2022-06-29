@@ -1,0 +1,1 @@
+search_result['9173']=["topic_0000000000001543.html","IAsyncObservable\u0026lt;T\u0026gt; Interface","An interface that allows an IAsyncObserver\u003cT\u003e to subscribe to an observable\r\nwhere IAsyncObserver.OnNextAsync will be called instead of IObserver\u003cT\u003e.OnNext."];

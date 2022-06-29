@@ -1,0 +1,1 @@
+c['6997']=[['6998',"AuthorizationRepository Property","topic_0000000000000E46.html",0],['6999',"AuthorizationService Property","topic_0000000000000E45.html",0],['7000',"IsSystemContext Property","topic_0000000000000E49.html",0],['7001',"PermissionsBuilderService Property","topic_0000000000000E47.html",0],['7002',"PermissionsService Property","topic_0000000000000E48.html",0]];

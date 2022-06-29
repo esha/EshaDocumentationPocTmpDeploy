@@ -1,0 +1,1 @@
+search_result['9946']=["topic_00000000000016E6.html","NutrientInfo.IsCalculated Property","The \"normal\" analysis value returned by an ingredient or aggregate food."];

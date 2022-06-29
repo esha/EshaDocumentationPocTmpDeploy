@@ -1,0 +1,1 @@
+search_result['4595']=["topic_0000000000000A6A.html","AuthorizationRepositoryAdapter.GetAncestryAssociation Method","Gets the ancestry association of a user with the named users group.\r\n            This allows to track how a user is associated to a group through\r\n            their ancestry."];

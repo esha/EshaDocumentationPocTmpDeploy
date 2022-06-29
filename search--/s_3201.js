@@ -1,0 +1,1 @@
+search_result['3201']=["topic_00000000000007CE.html","IFoodVisitorBuilder.AddListenerFactory Method","Adds a factory method to create an instance of a specific listener, which will be subscribed to a ObservableFoodVisitor\r\nwhen BuildVisitor is called."];

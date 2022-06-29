@@ -1,0 +1,1 @@
+search_result['11268']=["topic_0000000000001A24.html","Recommendation.CopyTo Method","Copies the state of the entity to another entity of the same type."];

@@ -1,0 +1,1 @@
+c['3514']=[['3515',"IsApprovedPhase Property","topic_0000000000001C39.html",0],['3516',"IsRevisionAllowed Property","topic_0000000000001C3A.html",0],['3517',"Lifecycle Property","topic_0000000000001C37.html",0],['3518',"PhaseName Property","topic_0000000000001C38.html",0]];

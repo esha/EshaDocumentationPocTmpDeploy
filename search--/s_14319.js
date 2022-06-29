@@ -1,0 +1,1 @@
+search_result['14319']=["topic_0000000000002388.html","IDatabaseManager.ProviderFactory Property","Gets the DbProviderFactory for the type of the managed database."];

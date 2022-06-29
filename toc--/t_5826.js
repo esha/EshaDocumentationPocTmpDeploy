@@ -1,0 +1,1 @@
+c['5826']=[['5827',"Slice(IEnumerable\u003cNutrient\u003e) Method","topic_0000000000000BA5.html",0],['5828',"Slice(params Nutrient[]) Method","topic_0000000000000BA3.html",0],['5829',"Slice(params StandardNutrients[]) Method","topic_0000000000000BA4.html",0]];

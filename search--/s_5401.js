@@ -1,0 +1,1 @@
+search_result['5401']=["topic_0000000000000C55.html","NccSelectionDetails Class","A Collection of NutrientContentClaim made on a food under a specific regulation along with\r\nthe data needed for any calculations to evaluate the claim\u0027s validity"];

@@ -1,0 +1,1 @@
+search_result['9600']=["topic_0000000000001622.html","ListenerSubscriptions Constructor","Creates and initializes a new instance of ListenerSubscriptions."];

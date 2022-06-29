@@ -1,0 +1,1 @@
+search_result['8409']=["topic_0000000000001331.html","Food.FindRightScalar (Amount, Amount) Method","Computes a scalar value which, when multiplied by, will represent an equivalent quantity of\r\n    Amount.Unit of from in to."];

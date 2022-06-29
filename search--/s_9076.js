@@ -1,0 +1,1 @@
+search_result['9076']=["topic_00000000000014F9.html","GraphBuildingFoodVisitor\u0026lt;TGraph, TVertex, TEdge, TVisitation\u0026gt;.Subscribe Method","Notifies the provider that an observer is to receive notifications."];

@@ -1,0 +1,1 @@
+c['9974']=[['9975',"TypesInitialized Property","topic_0000000000002032.html",0]];

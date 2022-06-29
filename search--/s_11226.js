@@ -1,0 +1,1 @@
+search_result['11226']=["topic_0000000000001A04.html","Recipe.UseStaticIngredientStatement Property","Gets or sets a value indicating that this recipe should use static ingredient statement text."];

@@ -1,0 +1,1 @@
+c['6074']=[['6075',"TextBridge Constructor","topic_00000000000009A5.html",0],['6076',"Methods","topic_00000000000009A4_methods--.html",1]];

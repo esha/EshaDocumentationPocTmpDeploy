@@ -1,0 +1,1 @@
+search_result['3454']=["topic_0000000000000823.html","INutrientTransform.IsInvertible Property","Gets a value indicating whether the transform has an inverse. If false;\r\nInverse throws a NonInvertableTransformDomainException."];

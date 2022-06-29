@@ -1,0 +1,1 @@
+search_result['14294']=["topic_0000000000002380.html","IBulkLoadRepository.UpdateAll Method","Updates a collection of entities to the repository."];

@@ -1,0 +1,1 @@
+c['1456']=[['1457',"FoodGraph\u003cTVertex, TEdge\u003e Constructor","topic_000000000000139C.html",0],['1458',"Properties","topic_000000000000139B_props--.html",1],['1470',"Methods","topic_000000000000139B_methods--.html",1],['1512',"Events","topic_000000000000139B_events--.html",1]];

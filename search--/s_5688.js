@@ -1,0 +1,1 @@
+search_result['5688']=["topic_0000000000000CF5.html","Regulations.Implicit Conversion (Regulation to Nullable) Operator","Implicit conversion to a StandardUnits value for tidier comparisons."];

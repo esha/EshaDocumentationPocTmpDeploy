@@ -1,0 +1,1 @@
+search_result['11861']=["topic_0000000000001C95.html","VisitSequence Enumeration","Represents where in the visit of a hierarchy a visit event is, either before a target branch is visited, or after it had been visited."];

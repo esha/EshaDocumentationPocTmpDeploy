@@ -1,0 +1,1 @@
+search_result['14334']=["topic_0000000000002392.html","IDatabaseMigrator.TypesInitialized Property","Gets a sequence of types which this initializer initializes."];

@@ -1,0 +1,1 @@
+search_result['11225']=["topic_0000000000001A03.html","Recipe.UseStaticAllergenStatement Property","Gets or sets a value indicating that this recipe should use static allergen statement text."];

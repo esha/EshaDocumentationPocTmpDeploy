@@ -1,0 +1,1 @@
+search_result['5675']=["topic_0000000000000CE9.html","Regulation.Enacted Property",""];

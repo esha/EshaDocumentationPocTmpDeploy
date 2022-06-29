@@ -1,0 +1,1 @@
+search_result['9594']=["topic_0000000000001621.html","ListenerSubscriptions Class","Keeps track of subscribed IObservable\u003cFoodVisitation\u003e instances to a IObservable\u003cFoodVisitation\u003e, composes all subscriptions\r\n(instances of IDisposable returned from IObservable\u003cT\u003e.Subscribe), and all..."];

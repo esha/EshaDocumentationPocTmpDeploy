@@ -1,0 +1,1 @@
+c['4819']=[['4820',"GetCaloriesPerGram Method","topic_000000000000074F.html",0]];

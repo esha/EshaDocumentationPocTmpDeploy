@@ -1,0 +1,1 @@
+search_result['8659']=["topic_00000000000013D8.html","FoodGroup(Nullable\u0026lt;Guid\u0026gt;, String) Constructor","Initializes a new instance of the Group class."];

@@ -1,0 +1,1 @@
+search_result['8611']=["topic_00000000000013B5.html","FoodGraph\u0026lt;TVertex, TEdge\u0026gt;.Clear Method","Clears the vertex and edges"];

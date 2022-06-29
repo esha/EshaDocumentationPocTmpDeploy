@@ -1,0 +1,1 @@
+c['7291']=[['7292',"AddTranslatedIngredientStatementTest Method","topic_0000000000000035.html",0],['7293',"RemoveTranslatedIngredientStatementTest Method","topic_0000000000000036.html",0],['7294',"ThrowsWhenTranslatedIngredientStatementAlreadyExists Method","topic_0000000000000037.html",0],['7295',"TranslatedIngredientStatementClones Method","topic_0000000000000038.html",0]];

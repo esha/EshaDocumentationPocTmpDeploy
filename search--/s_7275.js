@@ -1,0 +1,1 @@
+search_result['7275']=["topic_00000000000010B1.html","BigRationalQuantity.Subtract (Quantity\u0026lt;BigRational\u0026gt;) Method",""];

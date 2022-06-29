@@ -1,0 +1,1 @@
+search_result['11828']=["topic_0000000000001C79.html","VisitorAnalysisContext.CancellationToken Property","A CancellationToken representing the cancellation state of the whole visit."];

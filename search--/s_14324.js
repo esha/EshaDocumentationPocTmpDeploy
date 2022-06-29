@@ -1,0 +1,1 @@
+search_result['14324']=["topic_000000000000238D.html","IDatabaseManager.RestoreDatabase Method","Restores a backup instance of the database from the specified file."];

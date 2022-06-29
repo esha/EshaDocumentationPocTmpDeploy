@@ -1,0 +1,1 @@
+search_result['5735']=["topic_0000000000000D0F.html","RegulationNutrient.IsMandatory Property","whether the nutrient is required to be on the label"];

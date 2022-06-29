@@ -1,0 +1,1 @@
+search_result['8142']=["topic_0000000000001270.html","EntityLock Class","Represents an exclusive lock on a NamedEntity instance. A new instance should be persisted immediately\r\nafter an entity is opened for editing and deleted immediately after the entity is closed."];

@@ -1,0 +1,1 @@
+search_result['10985']=["topic_0000000000001979.html","Quantity\u0026lt;T\u0026gt;.Multiply (Quantity\u0026lt;T\u0026gt;, Decimal) Operator","The *."];

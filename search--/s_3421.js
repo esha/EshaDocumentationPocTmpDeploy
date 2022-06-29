@@ -1,0 +1,1 @@
+search_result['3421']=["topic_000000000000081C.html","INutrientProfileFactory.CreateNutrientProfile (NutrientVector, Amount, ConversionMap, String) Method","Creates a NutrientProfile based on the given definingAmount."];

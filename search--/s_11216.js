@@ -1,0 +1,1 @@
+search_result['11216']=["topic_00000000000019FA.html","Recipe.CookTemperature Property","Gets or sets the cooking temperature text for this recipe."];

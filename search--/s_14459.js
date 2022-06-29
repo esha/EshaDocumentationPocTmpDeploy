@@ -1,0 +1,1 @@
+search_result['14459']=["topic_00000000000023D1.html","IRepository\u0026lt;TRootEntity\u0026gt;.Delete Method","Removes an entity from the repository."];

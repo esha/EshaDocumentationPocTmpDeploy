@@ -1,0 +1,1 @@
+c['2970']=[['2971',"Quantity(T) Constructor","topic_000000000000196A.html",0],['2972',"Quantity() Constructor","topic_000000000000196C.html",0],['2973',"Quantity(SerializationInfo, StreamingContext) Constructor","topic_000000000000196B.html",0]];

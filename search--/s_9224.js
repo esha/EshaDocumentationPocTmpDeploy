@@ -1,0 +1,1 @@
+search_result['9224']=["topic_0000000000001558.html","IFoodVisitorContext.CancellationToken Property","A CancellationToken representing the cancellation state of the whole visit."];

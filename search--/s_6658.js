@@ -1,0 +1,1 @@
+search_result['6658']=["topic_0000000000000F26.html","AggregateFood.ClearItems Method","Clears the AggregateFood\u0027s child food items and flags the conversions for update by\r\nsetting Food.IsAsIsRecomputeNeeded to true."];

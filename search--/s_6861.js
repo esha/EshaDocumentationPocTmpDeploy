@@ -1,0 +1,1 @@
+search_result['6861']=["topic_0000000000000FAA_overloads--.html","AmountCost.Equals Method","Indicates whether the current Object is equal to another Object of the same type."];

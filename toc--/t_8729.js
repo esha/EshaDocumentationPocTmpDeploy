@@ -1,0 +1,1 @@
+c['8729']=[['8730',"RegulationRulesTestsBase Constructor","topic_0000000000000579_overloads--.html",1],['8733',"Properties","topic_0000000000000578_props--.html",1],['8760',"Methods","topic_0000000000000578_methods--.html",1],['8773',"Fields","topic_0000000000000578_vars--.html",1]];

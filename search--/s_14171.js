@@ -1,0 +1,1 @@
+search_result['14171']=["topic_0000000000002345.html","UnitOfWorkCompleteEventArgs Constructor","Initializes a new instance of UnitOfWorkCompleteEventArgs for the given unitOfWork."];

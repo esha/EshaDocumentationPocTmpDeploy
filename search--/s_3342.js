@@ -1,0 +1,1 @@
+search_result['3342']=["topic_0000000000000803.html","INamedItemRepository\u0026lt;TEntity\u0026gt;.GetByName (GlobalString, Boolean) Method",""];

@@ -1,0 +1,1 @@
+search_result['3288']=["topic_00000000000007F0.html","IIndexedRepository.UpdateIndex Method","Find all new or updated documents in the repository and index them."];

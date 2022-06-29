@@ -1,0 +1,1 @@
+c['8510']=[['8511',"Sql2008TestDatabaseManager Constructor","topic_0000000000000480.html",0],['8512',"Properties","topic_000000000000047F_props--.html",1],['8517',"Methods","topic_000000000000047F_methods--.html",1]];

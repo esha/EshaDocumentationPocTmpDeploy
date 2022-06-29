@@ -1,0 +1,1 @@
+search_result['10241']=["topic_00000000000017AC.html","NutrientVector(NutrientVector, Nutrient, Quantity) Constructor","Initializes a new instance of the NutrientVector class as a copy of nutrients,\r\nreplacing the value at nutrient with quantity."];

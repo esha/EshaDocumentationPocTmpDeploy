@@ -1,0 +1,1 @@
+search_result['4948']=["topic_0000000000000B32_overloads--.html","PermissionsServiceAdapter.GetPermissionsFor\u0026lt;TEntity\u0026gt; Method",""];

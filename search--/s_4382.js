@@ -1,0 +1,1 @@
+search_result['4382']=["topic_00000000000009E6.html","FullTextSearchResult Class","Represents a result returned from an NHibernate full text search."];

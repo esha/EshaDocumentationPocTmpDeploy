@@ -1,0 +1,1 @@
+search_result['9276']=["topic_0000000000001571.html","ImageModel.Equals (Object) Method","Determines whether the specified Object is equal to the current Object."];

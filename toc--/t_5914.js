@@ -1,0 +1,1 @@
+c['5914']=[['5915',"CustomSearchMapping Class","topic_00000000000009E4.html",1],['5918',"FullTextSearchResult Class","topic_00000000000009E6.html",1],['5932',"IndexingException Class","topic_00000000000009F1.html",1],['5936',"SearchResultTransformer Class","topic_00000000000009F4.html",1]];

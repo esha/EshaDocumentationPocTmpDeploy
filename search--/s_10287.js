@@ -1,0 +1,1 @@
+search_result['10287']=["topic_00000000000017CB.html","NutrientVector.Equals (Object) Method","Determines whether the specified Object is equal to the current Object."];

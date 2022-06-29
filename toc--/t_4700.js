@@ -1,0 +1,1 @@
+c['4700']=[['4701',"TranslatedIngredientStatement() Constructor","topic_0000000000000712.html",0],['4702',"TranslatedIngredientStatement(Guid, RegulationLanguage, string, StyleFlags, string, StyleFlags, string, IEnumerable\u003cIngredientStatementItem\u003e) Constructor","topic_0000000000000711.html",0]];

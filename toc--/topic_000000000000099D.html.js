@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000002442.html"],['5940',"Esha.DomainModel.NHibernate.Search.Bridges Namespace","topic_000000000000093B.html"],['6064',"StringBridgeDefinition\u003cTBridge\u003e Class","topic_000000000000099D.html"]];

@@ -1,0 +1,1 @@
+search_result['3056']=["topic_000000000000077C.html","IFoodFactory.CreateRecipeWithFixedServingSize (Nullable\u0026lt;Guid\u0026gt;, String, Amount) Method","Creates the size of the recipe with fixed serving."];

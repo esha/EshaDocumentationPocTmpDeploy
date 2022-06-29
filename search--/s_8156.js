@@ -1,0 +1,1 @@
+search_result['8156']=["topic_0000000000001276.html","EntityLock.IsRoot Property","Convenience property that returns true/false whether or not the instance has a parent lock."];

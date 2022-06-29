@@ -1,0 +1,1 @@
+search_result['9036']=["topic_00000000000014DD.html","FoodVisitorFactoryBase.CreateAnalysisVisitor (Amount, AmountTarget, IEnumerable\u0026lt;Nutrient\u0026gt;, NutrientTransformFilter, Unit, Nullable\u0026lt;StandardUnits\u0026gt;, IAnalysisContext) Method","Creates an AnalysisVisitor with the given parameters."];

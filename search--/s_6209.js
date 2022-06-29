@@ -1,0 +1,1 @@
+search_result['6209']=["topic_0000000000000E2F.html","SearchFilterFactory.CreateEmptySearchFilter Method","Creates a new SearchFilter instance. All criteria are null."];

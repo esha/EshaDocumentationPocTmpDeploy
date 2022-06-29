@@ -1,0 +1,1 @@
+search_result['10665']=["topic_00000000000018CE.html","Quantity.ToDouble Method",""];

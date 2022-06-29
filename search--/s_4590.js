@@ -1,0 +1,1 @@
+search_result['4590']=["topic_0000000000000A65.html","AuthorizationRepositoryAdapter.CreateChildEntityGroupOf Method","Creates the entity group as a child of parentGroupName."];

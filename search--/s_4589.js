@@ -1,0 +1,1 @@
+search_result['4589']=["topic_0000000000000A64.html","AuthorizationRepositoryAdapter.CreateChildUserGroupOf Method","Creates the users group as a child of parentGroupName."];

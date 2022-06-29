@@ -1,0 +1,1 @@
+search_result['10491']=["topic_000000000000185E.html","OldFoodVisitor.PopAmount Method","Removes the top amount from the amount stack, changing CurrentFoodAmount."];

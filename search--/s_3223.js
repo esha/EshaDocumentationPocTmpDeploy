@@ -1,0 +1,1 @@
+search_result['3223']=["topic_00000000000007DB.html","IFoodVisitorFactory.CreateAddIndexedAnalysisVisitor Method","Creates a food visitor for adding an analysis for indexing to a food."];

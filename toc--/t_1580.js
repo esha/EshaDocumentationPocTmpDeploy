@@ -1,0 +1,1 @@
+c['1580']=[['1581',"FoodItemAnalysisEdge Constructor","topic_000000000000140C.html",0],['1582',"Properties","topic_000000000000140B_props--.html",1]];

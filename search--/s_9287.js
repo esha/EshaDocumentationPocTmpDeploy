@@ -1,0 +1,1 @@
+search_result['9287']=["topic_0000000000001576.html","IMakeReadOnly.IsReadOnly Property","Gets a value indicating whether this instance is read only."];

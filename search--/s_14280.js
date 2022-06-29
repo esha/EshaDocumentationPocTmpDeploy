@@ -1,0 +1,1 @@
+search_result['14280']=["topic_0000000000002377.html","EshaEntity.Clone Method","Creates a clone of this entity. All entity references will be copied, but not the\r\nentity the reference points to."];

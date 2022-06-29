@@ -1,0 +1,1 @@
+search_result['1012']=["topic_00000000000002E1.html","PermutationsGenerator\u0026lt;T\u0026gt; Constructor",""];

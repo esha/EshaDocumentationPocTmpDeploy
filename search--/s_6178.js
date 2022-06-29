@@ -1,0 +1,1 @@
+search_result['6178']=["topic_0000000000000E1C.html","SearchFilter.ExcludedEntityIds Property","A set of EshaEntity objects that always will be excluded from full text results (e.g. documents that are already open)."];

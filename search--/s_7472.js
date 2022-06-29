@@ -1,0 +1,1 @@
+search_result['7472']=["topic_000000000000110B.html","CompositeIngredient.AddFoods (IEnumerable\u0026lt;FoodItem\u0026gt;, CancellationToken) Method","Adds a sequence of FoodItems to Food.Items."];

@@ -1,0 +1,1 @@
+search_result['4599']=["topic_0000000000000A6E.html","AuthorizationRepositoryAdapter.GetAssociatedUsersGroupFor Method","Gets the associated users group for the specified user."];

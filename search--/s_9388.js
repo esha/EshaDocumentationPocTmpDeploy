@@ -1,0 +1,1 @@
+search_result['9388']=["topic_00000000000015B2.html","Ingredient.FindRightScaleToServing Method","The scalar to apply to any value representative of a total amount (as entered) scaled to a specific amount,\r\nAdjusting for the effect of yield adjustments and the type of serving size on the final amo..."];

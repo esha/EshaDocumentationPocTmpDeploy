@@ -1,0 +1,1 @@
+search_result['11269']=["topic_0000000000001A25.html","Recommendation.InternalClone Method","Creates a clone of this entity. All entity references will be copied, but not the\r\nentity the reference points to."];

@@ -1,0 +1,1 @@
+search_result['5729']=["topic_0000000000000D09.html","RegulationNutrient.SupportedClaims Property","The collection of claims a recipe might make about this regulation nutrient as defined by the\r\nregulation."];

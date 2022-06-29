@@ -1,0 +1,1 @@
+search_result['10349']=["topic_00000000000017F3.html","ObservableCancellingSubject\u0026lt;T\u0026gt;.IsDisposed Property","Indicates whether the subject has been disposed."];

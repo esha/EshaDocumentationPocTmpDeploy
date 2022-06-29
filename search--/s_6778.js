@@ -1,0 +1,1 @@
+search_result['6778']=["topic_0000000000000F7B.html","AllergenStatement.CopyTo Method","Copies the state of the entity to another entity of the same type."];

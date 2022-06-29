@@ -1,0 +1,1 @@
+search_result['6875']=["topic_0000000000000FB4.html","AmountVertex.Unit Property","Gets the vertex unit from Amount."];

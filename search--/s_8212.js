@@ -1,0 +1,1 @@
+search_result['8212']=["topic_0000000000001297.html","ExpressionBasedNutrientVectorComputer.AggregateComponentsRecursive Method","Aggregates the values in a NutrientVector for the components\r\nof the Nutrient by way of aggregate expressions recursively,\r\naggregating all components of compound nutrients."];

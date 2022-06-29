@@ -1,0 +1,1 @@
+search_result['3062']=["topic_000000000000077F.html","IFoodFactory.CreateRecipeWithFixedServingSize (String, Quantity, Amount) Method","Creates the size of the recipe with fixed serving."];

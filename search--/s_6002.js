@@ -1,0 +1,1 @@
+search_result['6002']=["topic_0000000000000D98_vars--.html","IRuleResult Fields",""];

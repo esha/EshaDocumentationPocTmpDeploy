@@ -1,0 +1,1 @@
+search_result['11775']=["topic_0000000000001C48.html","VisitedComponentType Enumeration","Represents what kind of food component - a Food or a FoodItem is being targeted on the visit event."];

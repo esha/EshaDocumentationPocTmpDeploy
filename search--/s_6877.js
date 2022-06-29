@@ -1,0 +1,1 @@
+search_result['6877']=["topic_0000000000000FB6.html","AmountVertex.Owner Property","Gets the owning map."];

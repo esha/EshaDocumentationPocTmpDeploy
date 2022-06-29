@@ -1,0 +1,1 @@
+c['1672']=[['1673',"FoodItemTypeIncompatibleDomainException Constructor","topic_0000000000001458.html",0],['1674',"Properties","topic_0000000000001457_props--.html",1]];

@@ -1,0 +1,1 @@
+search_result['13836']=["topic_0000000000002272.html","GlobalStringEqualsHqlGenerator Constructor",""];

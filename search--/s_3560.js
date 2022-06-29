@@ -1,0 +1,1 @@
+search_result['3560']=["topic_000000000000084A.html","IStandardUnitOfWork Interface","Specifies an interface to a general-purpose transactional read-write or read-only unit of work."];

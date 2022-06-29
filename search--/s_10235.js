@@ -1,0 +1,1 @@
+search_result['10235']=["topic_00000000000017A9.html","NutrientVector(IDictionary\u0026lt;NutrientQuantity\u0026gt;) Constructor","Initializes a new instance of the NutrientVector class with the given values."];

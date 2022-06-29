@@ -1,0 +1,1 @@
+search_result['4389']=["topic_00000000000009E8.html","FullTextSearchResult.EntityId Property","The Id of the entity associated with the search result."];

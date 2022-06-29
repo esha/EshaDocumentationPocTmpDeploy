@@ -1,0 +1,1 @@
+c['3606']=[['3607',"WeightResult(Amount) Constructor","topic_0000000000001C9B.html",0],['3608',"WeightResult(Unit, Quantity, Quantity) Constructor","topic_0000000000001C9A.html",0]];

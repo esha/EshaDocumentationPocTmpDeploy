@@ -1,0 +1,1 @@
+search_result['8033']=["topic_0000000000001238.html","DoubleQuantity.CompareTo (Quantity) Method","Compares the current object with another object of the same type."];

@@ -1,0 +1,1 @@
+c['242']=[['243',"AmountCost(Amount, Money) Constructor","topic_0000000000000FA3.html",0],['244',"AmountCost(Quantity, Unit, Money) Constructor","topic_0000000000000FA2.html",0]];

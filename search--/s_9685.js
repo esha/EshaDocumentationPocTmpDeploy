@@ -1,0 +1,1 @@
+search_result['9685']=["topic_000000000000164C.html","NullDatabaseManager.CheckDatabaseExists Method","Determines whether the database exists."];

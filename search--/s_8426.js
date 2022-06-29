@@ -1,0 +1,1 @@
+search_result['8426']=["topic_0000000000001339_overloads--.html","Food.RemoveNutrientTransforms Method","Removes the given nutrient transforms."];

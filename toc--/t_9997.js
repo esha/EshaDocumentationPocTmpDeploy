@@ -1,0 +1,1 @@
+c['9997']=[['9998',"FakeRegulationNutrient Constructor","topic_000000000000204A.html",0],['9999',"Methods","topic_0000000000002046_methods--.html",1],['10002',"Fields","topic_0000000000002046_vars--.html",1]];

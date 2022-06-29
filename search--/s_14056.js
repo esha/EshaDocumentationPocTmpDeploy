@@ -1,0 +1,1 @@
+search_result['14056']=["topic_00000000000022FB.html","NHibernateRepository\u0026lt;TEntity\u0026gt;.GetCriteriaQuery\u0026lt;TSubtype\u0026gt; Method",""];

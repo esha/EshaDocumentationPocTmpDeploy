@@ -1,0 +1,1 @@
+search_result['11827']=["topic_0000000000001C78.html","VisitorAnalysisContext.LoggerFactory Property","Gets the logger factory."];

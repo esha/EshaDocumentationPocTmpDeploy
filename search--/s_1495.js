@@ -1,0 +1,1 @@
+search_result['1495']=["topic_00000000000003FA.html","NHibernateUnitTestFixture.Mappings Property","Mapping files used in the TestCase"];

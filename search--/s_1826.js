@@ -1,0 +1,1 @@
+search_result['1826']=["topic_00000000000004BD.html","TestDataReader.NextResult Method","Advances the data reader to the next result, when reading the results of batch SQL statements."];

@@ -1,0 +1,1 @@
+search_result['2162']=["topic_0000000000000579_overloads--.html","RegulationRulesTestsBase Constructor","Provides mock implementations needed to test Rules generated from Regulations.  This uses the US2016 regulation to provide\r\n information used by the RuleListRepository to generate rules.  The only rul..."];

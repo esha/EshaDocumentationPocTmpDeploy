@@ -1,0 +1,1 @@
+c['6288']=[['6289',"NccSelectionDetails(Recipe, Regulation, Amount, Recipe, ICollection\u003cSelectedNutrientContentClaim\u003e) Constructor","topic_0000000000000C57.html",0],['6290',"NccSelectionDetails() Constructor","topic_0000000000000C56.html",0]];

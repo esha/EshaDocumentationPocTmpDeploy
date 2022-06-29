@@ -1,0 +1,1 @@
+search_result['14000']=["topic_00000000000022CF.html","NHibernateRepository(Type, IUnitOfWork, IStatelessSession, ILogger, IDomainExceptionMapper) Constructor","Initializes a new instance of the NHibernateRepository class."];

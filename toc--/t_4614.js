@@ -1,0 +1,1 @@
+c['4614']=[['4615',"IngredientStatement Constructor","topic_00000000000006BC_overloads--.html",1],['4618',"Properties","topic_00000000000006BB_props--.html",1],['4621',"Methods","topic_00000000000006BB_methods--.html",1]];

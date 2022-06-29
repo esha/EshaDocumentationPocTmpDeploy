@@ -1,0 +1,1 @@
+c['4044']=[['4045',"SqlServerDatabaseManager Constructor","topic_000000000000241F_overloads--.html",1],['4048',"Properties","topic_000000000000241E_props--.html",1],['4061',"Methods","topic_000000000000241E_methods--.html",1]];

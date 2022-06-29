@@ -1,0 +1,1 @@
+c['4978']=[['4979',"GetSingleton Method","topic_00000000000007DD.html",0]];

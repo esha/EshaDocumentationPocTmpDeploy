@@ -1,0 +1,1 @@
+search_result['2857']=["topic_000000000000072B.html","IAnalysisContext.IsVisitStarted Property","Gets a value indicating whether the visit is started."];

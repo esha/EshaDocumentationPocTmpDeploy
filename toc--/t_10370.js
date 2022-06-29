@@ -1,0 +1,1 @@
+c['10370']=[['10371',"IsInitComplete Property","topic_0000000000002234.html",0]];

@@ -1,0 +1,1 @@
+search_result['2610']=["topic_0000000000000695.html","BaseIngredientStatementGenerator.CreateTextElementList Method","Creates a TextElementList. Can be overriden to provide a specific\r\nIEqualityComparer for the text elements."];

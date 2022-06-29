@@ -1,0 +1,1 @@
+search_result['6813']=["topic_0000000000000F8C.html","Amount.Quantity Property","Gets the quantity."];

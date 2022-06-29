@@ -1,0 +1,1 @@
+c['7203']=[['7204',"SingleTransactionDomainTask Constructor","topic_0000000000000EF7.html",0],['7205',"Properties","topic_0000000000000EF6_props--.html",1],['7207',"Methods","topic_0000000000000EF6_methods--.html",1]];

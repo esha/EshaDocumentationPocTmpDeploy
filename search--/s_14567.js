@@ -1,0 +1,1 @@
+search_result['14567']=["topic_000000000000240D.html","QueryProviderExceptionWrapper Class","Wraps an arbitrary IQueryProvider and catches any exceptions in the Execute\r\nmethod, and maps them with the provided IDomainExceptionMapper."];

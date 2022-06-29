@@ -1,0 +1,1 @@
+c['1386']=[['1387',"FoodAllergen() Constructor","topic_0000000000001362.html",0],['1388',"FoodAllergen(Food, Allergen, AllergenOccurrence) Constructor","topic_0000000000001363.html",0]];

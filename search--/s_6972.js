@@ -1,0 +1,1 @@
+search_result['6972']=["topic_0000000000000FF8.html","AnalysisOverride.GetEnumerator Method","Returns an enumerator that iterates through the collection."];

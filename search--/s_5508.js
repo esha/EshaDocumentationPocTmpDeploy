@@ -1,0 +1,1 @@
+search_result['5508']=["topic_0000000000000C8B.html","GlobalUsageProfile.InternalClone Method","Creates a clone of this entity. All entity references will be copied, but not the\r\nentity the reference points to."];

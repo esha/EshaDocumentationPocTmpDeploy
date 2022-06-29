@@ -1,0 +1,1 @@
+c['5014']=[['5015',"GetByRegulation Method","topic_00000000000007F7.html",0],['5016',"GetByRegulationNutrient Method","topic_00000000000007F8.html",0],['5017',"GetOptionsForLabel Method","topic_00000000000007F9.html",0]];

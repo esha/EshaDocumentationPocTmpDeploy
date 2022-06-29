@@ -1,0 +1,1 @@
+c['1563']=[['1564',"AddNutrientTransforms(IEnumerable\u003cNutrientTransform\u003e) Method","topic_00000000000013FE.html",0],['1565',"AddNutrientTransforms(params NutrientTransform[]) Method","topic_00000000000013FD.html",0]];

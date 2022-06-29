@@ -1,0 +1,1 @@
+search_result['14592']=["topic_0000000000002417.html","RootEntity(Nullable\u0026lt;Guid\u0026gt;) Constructor","Initializes a new instance of the RootEntity class."];

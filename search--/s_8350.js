@@ -1,0 +1,1 @@
+search_result['8350']=["topic_00000000000012FF.html","Food.IndexedCost Property","The value for cost that we index for full text searching. Scales the cost set in AmountCost to 100 grams for indexing."];

@@ -1,0 +1,1 @@
+search_result['9677']=["topic_0000000000001644.html","NullDatabaseManager.ConnectionString Property","Gets the managed database connection string."];

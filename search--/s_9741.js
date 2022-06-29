@@ -1,0 +1,1 @@
+search_result['9741']=["topic_000000000000166D.html","Nutrient.OnGetObjectData Method","Gets the object data during serialization."];

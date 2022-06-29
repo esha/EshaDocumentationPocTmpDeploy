@@ -1,0 +1,1 @@
+search_result['3216']=["topic_00000000000007D5_overloads--.html","IFoodVisitorFactory.CreateCostVisitor Method","Creates a cost visitor."];

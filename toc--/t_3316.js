@@ -1,0 +1,1 @@
+c['3316']=[['3317',"SpecificAmountFoodVisitListener\u003cTResult\u003e Constructor","topic_0000000000001A93.html",0],['3318',"Properties","topic_0000000000001A92_props--.html",1],['3325',"Methods","topic_0000000000001A92_methods--.html",1]];

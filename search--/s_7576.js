@@ -1,0 +1,1 @@
+search_result['7576']=["topic_000000000000113F.html","Conversion.IsAnyDimension Method","Gets a value indicating whether the Unit.Dimension property of either FromUnit or ToUnit\r\nequals dimension."];

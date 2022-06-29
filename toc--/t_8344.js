@@ -1,0 +1,1 @@
+c['8344']=[['8345',"NHibernateUnitTestFixture Constructor","topic_00000000000003F2.html",0],['8346',"Properties","topic_00000000000003F1_props--.html",1],['8356',"Methods","topic_00000000000003F1_methods--.html",1]];

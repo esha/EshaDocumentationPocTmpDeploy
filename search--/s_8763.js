@@ -1,0 +1,1 @@
+search_result['8763']=["topic_0000000000001421.html","FoodItemEdge\u0026lt;TVertex\u0026gt;.Target Property","Gets the target vertex"];

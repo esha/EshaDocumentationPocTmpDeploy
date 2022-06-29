@@ -1,0 +1,1 @@
+c['10251']=[['10252',"TestEntityStore Constructor","topic_00000000000021C2.html",0],['10253',"Properties","topic_00000000000021C1_props--.html",1]];

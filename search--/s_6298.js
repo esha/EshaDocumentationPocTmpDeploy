@@ -1,0 +1,1 @@
+search_result['6298']=["topic_0000000000000E67.html","EshaUser.InternalClone Method","Creates a clone of this entity. All entity references will be copied, but not the\r\nentity the reference points to."];

@@ -1,0 +1,1 @@
+search_result['14473']=["topic_00000000000023D8.html","IUnitOfWork.IsSystem Property","Gets a value indicating whether this unit of work operates in the system authorization context."];

@@ -1,0 +1,1 @@
+search_result['4749']=["topic_0000000000000ABF.html","NHibernateFoodBulkLoadUnitOfWork.GetNutrientAggregation Method","Gets a NutrientAggregation instance for this unit of work."];

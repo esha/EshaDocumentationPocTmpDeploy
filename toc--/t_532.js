@@ -1,0 +1,1 @@
+c['532']=[['533',"BatchSize Constructor","topic_0000000000001098_overloads--.html",1],['537',"Properties","topic_0000000000001096_props--.html",1],['541',"Fields","topic_0000000000001096_vars--.html",1]];

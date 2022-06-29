@@ -1,0 +1,1 @@
+search_result['11916']=["topic_0000000000001CB7.html","Sql2008DatabaseManager.CheckDatabaseExists Method","Determines whether the database exists."];

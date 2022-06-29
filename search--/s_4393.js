@@ -1,0 +1,1 @@
+search_result['4393']=["topic_00000000000009EC.html","FullTextSearchResult.DocumentFields Property","A read-only dictionary of all stored fields from the Lucene document for convenience."];

@@ -1,0 +1,1 @@
+search_result['14028']=["topic_00000000000022E8.html","NHibernateRepository\u0026lt;TEntity\u0026gt; Class","An IRepository\u003cTRootEntity\u003e implemented over an NHibernate ISession\r\nor IStatelessSession."];

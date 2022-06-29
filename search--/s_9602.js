@@ -1,0 +1,1 @@
+search_result['9602']=["topic_0000000000001624.html","ListenerSubscriptions.GetAllListenersByType\u0026lt;TListener\u0026gt; Method","Gets all subscribed listeners of the specific type."];

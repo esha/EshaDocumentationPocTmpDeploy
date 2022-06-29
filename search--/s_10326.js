@@ -1,0 +1,1 @@
+search_result['10326']=["topic_00000000000017E3.html","NutrientVector.Equals (NutrientVector) Method","Determines if the vector is equal to another vector."];

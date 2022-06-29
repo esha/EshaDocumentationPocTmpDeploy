@@ -1,0 +1,1 @@
+search_result['10282']=["topic_00000000000017C8.html","NutrientVector.Add (NutrientVector, NutrientVector) Method","Adds two NutrientVector instances."];

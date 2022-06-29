@@ -1,0 +1,1 @@
+search_result['3134']=["topic_000000000000079F.html","IFoodUnitOfWork.AuthorizationContext Property","Gets the IAuthorizationContext associated with this unit of work."];

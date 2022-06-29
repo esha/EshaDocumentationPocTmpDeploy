@@ -1,0 +1,1 @@
+c['10172']=[['10173',"NHibernatePerFixtureContainerProvider Class","topic_0000000000002194.html",1],['10176',"NHibernateIntegrationTest Constructor","topic_0000000000002180.html",0],['10177',"Properties","topic_000000000000217F_props--.html",1],['10190',"Methods","topic_000000000000217F_methods--.html",1]];

@@ -1,0 +1,1 @@
+c['4570']=[['4571',"FoodCostingListener Constructor","topic_000000000000067F.html",0],['4572',"Properties","topic_000000000000067E_props--.html",1],['4576',"Methods","topic_000000000000067E_methods--.html",1]];

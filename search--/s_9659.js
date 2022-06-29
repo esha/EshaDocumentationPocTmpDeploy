@@ -1,0 +1,1 @@
+search_result['9659']=["topic_000000000000163E.html","NameUniquenessExtensions.GetDuplicatesByName\u0026lt;T\u0026gt; Method","Gets a collection of NamedEntity objects with the same name. Enforces any special domain model\r\nrules for name uniqueness (e.g. two or more Food objects can have the same name if they have\r\ndifferent ..."];

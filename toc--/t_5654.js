@@ -1,0 +1,1 @@
+c['5654']=[['5655',"GetGlobalPermissionsFor(IUser, string) Method","topic_0000000000000B2D.html",0],['5656',"GetGlobalPermissionsFor(IUser, string[]) Method","topic_0000000000000B2E.html",0]];

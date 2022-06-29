@@ -1,0 +1,1 @@
+search_result['2853']=["topic_0000000000000727.html","IAnalysisContext.AdjustingCalorieComputer Property","Gets the adjusting calorie computer."];

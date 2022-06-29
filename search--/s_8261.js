@@ -1,0 +1,1 @@
+search_result['8261']=["topic_00000000000012B1.html","Food Class","Represents a food substance, either simple or compound, measured in a specific amount and able to be analyzed\r\n    for any Amount for which a Conversion exists in ConversionMap."];

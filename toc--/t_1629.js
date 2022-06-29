@@ -1,0 +1,1 @@
+c['1629']=[['1630',"FoodItemPath Constructor","topic_0000000000001435_overloads--.html",1],['1637',"Properties","topic_0000000000001433_props--.html",1],['1647',"Methods","topic_0000000000001433_methods--.html",1],['1670',"Fields","topic_0000000000001433_vars--.html",1]];

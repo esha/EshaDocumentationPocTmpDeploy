@@ -1,0 +1,1 @@
+search_result['5715']=["topic_0000000000000D02.html","RegulationLanguage.CanBePrimaryLanguage Property",""];

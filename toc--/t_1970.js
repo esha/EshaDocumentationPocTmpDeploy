@@ -1,0 +1,1 @@
+c['1970']=[['1971',"Ingredient Constructor","topic_0000000000001598_overloads--.html",1],['1978',"Properties","topic_0000000000001597_props--.html",1],['1989',"Methods","topic_0000000000001597_methods--.html",1]];

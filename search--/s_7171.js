@@ -1,0 +1,1 @@
+search_result['7171']=["topic_000000000000107A.html","BaseAdjustingCalorieComputer Constructor",""];

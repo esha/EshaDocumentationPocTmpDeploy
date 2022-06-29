@@ -1,0 +1,1 @@
+search_result['14599']=["topic_000000000000241C.html","RootEntity.OnGetObjectData Method","Gets the object data during serialization."];

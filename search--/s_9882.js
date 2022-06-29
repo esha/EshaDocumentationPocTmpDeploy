@@ -1,0 +1,1 @@
+search_result['9882']=["topic_00000000000016C0.html","NutrientComponents.InternalClone Method","Creates a clone of this entity. All entity references will be copied, but not the\r\nentity the reference points to."];

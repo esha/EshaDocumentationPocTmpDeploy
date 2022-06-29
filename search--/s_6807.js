@@ -1,0 +1,1 @@
+search_result['6807']=["topic_0000000000000F89.html","Amount(Unit, Double) Constructor","Initializes a new instance of the Amount class."];

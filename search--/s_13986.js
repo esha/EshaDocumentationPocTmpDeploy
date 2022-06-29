@@ -1,0 +1,1 @@
+search_result['13986']=["topic_00000000000022C7.html","NHibernateConfigurationBase.ConfigureQueryCache Method",""];

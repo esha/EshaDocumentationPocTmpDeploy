@@ -1,0 +1,1 @@
+c['1028']=[['1029',"Inverse Property","topic_000000000000122F.html",0],['1030',"IsNaN Property","topic_0000000000001237.html",0],['1031',"Sign Property","topic_000000000000122E.html",0]];

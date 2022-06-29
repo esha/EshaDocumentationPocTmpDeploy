@@ -1,0 +1,1 @@
+search_result['4482']=["topic_0000000000000A22.html","GenericCompositeUserType\u0026lt;T\u0026gt;.PropertyTypes Property","The IType correspondents to the properties being mapped. use NHibernateUtil.x static types\r\nfor these."];

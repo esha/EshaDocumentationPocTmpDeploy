@@ -1,0 +1,1 @@
+search_result['9604']=["topic_0000000000001626.html","ListenerSubscriptions.Subscribe Method","Subscribes a listener to the IObservable\u003cT\u003e in this instance."];

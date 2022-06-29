@@ -1,0 +1,1 @@
+c['6438']=[['6439',"SaturatedFatReducedCondition Constructor","topic_0000000000000C2D.html",0],['6440',"Methods","topic_0000000000000C2B_methods--.html",1],['6442',"Fields","topic_0000000000000C2B_vars--.html",1]];

@@ -1,0 +1,1 @@
+c['6890']=[['6891',"LuceneQueryBuilder Constructor","topic_0000000000000DF6.html",0],['6892',"Methods","topic_0000000000000DF5_methods--.html",1]];

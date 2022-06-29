@@ -1,0 +1,1 @@
+c['8618']=[['8619',"NutrientContentClaimsTestBase Constructor","topic_00000000000004D6.html",0],['8620',"Properties","topic_00000000000004D5_props--.html",1],['8639',"Methods","topic_00000000000004D5_methods--.html",1]];

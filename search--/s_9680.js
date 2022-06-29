@@ -1,0 +1,1 @@
+search_result['9680']=["topic_0000000000001647.html","NullDatabaseManager.DatabaseVersion Property","Gets the version of the database being managed."];

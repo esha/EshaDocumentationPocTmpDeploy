@@ -1,0 +1,1 @@
+search_result['7534']=["topic_0000000000001127.html","Conversion Class","Models a conversion from one Amount to another Amount."];

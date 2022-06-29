@@ -1,0 +1,1 @@
+search_result['11695']=["topic_0000000000001C1A.html","VersionedEntity.Category Property","Gets or sets a value used to categorize this document entity."];

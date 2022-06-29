@@ -1,0 +1,1 @@
+c['3038']=[['3039',"Multiply(Quantity) Method","topic_00000000000019A0.html",0],['3040',"Multiply Operator","topic_000000000000199A.html",0],['3041',"Multiply Operator","topic_0000000000001999.html",0]];

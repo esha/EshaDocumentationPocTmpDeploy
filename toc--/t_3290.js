@@ -1,0 +1,1 @@
+c['3290']=[['3291',"ServingBasedAggregateFood Constructor","topic_0000000000001A7D_overloads--.html",1],['3298',"Properties","topic_0000000000001A7C_props--.html",1],['3303',"Methods","topic_0000000000001A7C_methods--.html",1]];

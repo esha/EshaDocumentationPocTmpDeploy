@@ -1,0 +1,1 @@
+search_result['14052']=["topic_00000000000022F7.html","NHibernateRepository\u0026lt;TEntity\u0026gt;.Delete Method",""];

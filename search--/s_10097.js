@@ -1,0 +1,1 @@
+search_result['10097']=["topic_000000000000174F.html","NutrientProfile.DefiningAmount Property","Gets or sets the amount which the profile is specified in."];

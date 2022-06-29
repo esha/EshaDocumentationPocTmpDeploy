@@ -1,0 +1,1 @@
+c['2236']=[['2237',"NutrientFactory Constructor","topic_00000000000016C2.html",0],['2238',"Methods","topic_00000000000016C1_methods--.html",1]];

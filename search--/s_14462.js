@@ -1,0 +1,1 @@
+search_result['14462']=["topic_00000000000023D3.html","IRepository\u0026lt;TRootEntity\u0026gt;.DeleteWhere Method","Removes all entities from the repository which match the given expression."];

@@ -1,0 +1,1 @@
+c['3930']=[['3931',"CalculatedStrategy Property","topic_0000000000000669.html",0],['3932',"ValueType Property","topic_000000000000066A.html",0],['3933',"ValueTypeName Property","topic_000000000000066B.html",0]];

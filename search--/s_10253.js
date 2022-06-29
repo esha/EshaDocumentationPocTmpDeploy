@@ -1,0 +1,1 @@
+search_result['10253']=["topic_00000000000017B7.html","NutrientVector.NonZeroEntries Property","Gets a vector of values which are non-zero."];

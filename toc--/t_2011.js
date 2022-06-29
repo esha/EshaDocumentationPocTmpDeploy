@@ -1,0 +1,1 @@
+c['2011']=[['2012',"InitialWeightComputer Constructor","topic_00000000000015C0_overloads--.html",1],['2015',"Properties","topic_00000000000015BF_props--.html",1],['2017',"Methods","topic_00000000000015BF_methods--.html",1]];

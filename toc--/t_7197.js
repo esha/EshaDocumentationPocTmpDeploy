@@ -1,0 +1,1 @@
+c['7197']=[['7198',"CreatePredicate Method","topic_0000000000000EF2.html",0],['7199',"FindEntityCount Method","topic_0000000000000EF3.html",0],['7200',"GetEntities Method","topic_0000000000000EF4.html",0],['7201',"ProcessEntities Method","topic_0000000000000EF5_overloads--.html",1]];

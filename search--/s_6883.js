@@ -1,0 +1,1 @@
+search_result['6883']=["topic_0000000000000FBB_overloads--.html","AmountVertex.Equals Method","Determines whether the specified Object is equal to the current Object."];

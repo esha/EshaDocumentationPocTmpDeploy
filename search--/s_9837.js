@@ -1,0 +1,1 @@
+search_result['9837']=["topic_00000000000016AA.html","NutrientAmount(Nutrient, Amount) Constructor","Initializes a new instance of the NutrientQuantity struct."];

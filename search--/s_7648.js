@@ -1,0 +1,1 @@
+search_result['7648']=["topic_000000000000116F_overloads--.html","ConversionMap.FindLeftScalar Method","Computes a scalar Quantity \"k\" such that it satisfies the equation: k * from == to."];

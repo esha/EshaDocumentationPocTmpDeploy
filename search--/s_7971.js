@@ -1,0 +1,1 @@
+search_result['7971']=["topic_0000000000001218.html","DomainModelExtensions.ToNutrientVector (IEnumerable\u0026lt;KeyValuePair\u0026lt;NutrientQuantity\u0026gt;\u0026gt;) Method",""];

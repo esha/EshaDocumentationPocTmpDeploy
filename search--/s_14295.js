@@ -1,0 +1,1 @@
+search_result['14295']=["topic_0000000000002381.html","IBulkLoadRepository\u0026lt;TRootEntity\u0026gt; Interface","A repository specialized to add large numbers of entities into storage."];

@@ -1,0 +1,1 @@
+search_result['4484']=["topic_0000000000000A24.html","GenericCompositeUserType\u0026lt;T\u0026gt;.IsMutable Property","Obviously, Value Objects should be false."];

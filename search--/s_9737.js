@@ -1,0 +1,1 @@
+search_result['9737']=["topic_0000000000001669.html","Nutrient.ComponentType Property","Gets or sets the Nutrient objects FoodComponentType."];

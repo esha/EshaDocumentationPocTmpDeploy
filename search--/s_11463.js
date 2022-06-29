@@ -1,0 +1,1 @@
+search_result['11463']=["topic_0000000000001A94.html","SpecificAmountFoodVisitListener\u0026lt;TResult\u0026gt;.RootAmount Property","The amount specified that the root of the visit is scaled to."];

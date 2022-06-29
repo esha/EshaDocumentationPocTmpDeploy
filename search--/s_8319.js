@@ -1,0 +1,1 @@
+search_result['8319']=["topic_00000000000012E0.html","Food.DefiningWeight Property","Gets the closest unit with a Unit.Dimension of Dimension.Weight\r\n    which can be converted to from DefiningAmount, or null reference (Nothing in Visual Basic) if none exists."];

@@ -1,0 +1,1 @@
+search_result['6810']=["topic_0000000000000F8A_overloads--.html","Amount Constructor","Initializes a new instance of the Amount class."];

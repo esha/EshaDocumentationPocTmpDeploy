@@ -1,0 +1,1 @@
+c['4413']=[['4414',"NHibernateStandardUnitOfWork Constructor","topic_00000000000022FE.html",0],['4415',"Properties","topic_00000000000022FD_props--.html",1],['4419',"Methods","topic_00000000000022FD_methods--.html",1]];

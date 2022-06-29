@@ -1,0 +1,1 @@
+c['4237']=[['4238',"DbUpDatabaseMigrator(ILogger, IDatabaseManager, Assembly, Predicate\u003cString\u003e) Constructor","topic_000000000000225C.html",0],['4239',"DbUpDatabaseMigrator(ILogger, IDatabaseManager, IScriptProvider) Constructor","topic_000000000000225D.html",0]];

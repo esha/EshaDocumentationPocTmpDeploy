@@ -1,0 +1,1 @@
+search_result['13904']=["topic_0000000000002289.html","NHibernateBaseUnitOfWork Class","A unit of work based on an NHibernate ISession or IStatelessSession."];

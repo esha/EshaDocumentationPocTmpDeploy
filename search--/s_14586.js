@@ -1,0 +1,1 @@
+search_result['14586']=["topic_0000000000002416.html","RootEntity Class","Represents a root (aggregate root) entity in the domain."];

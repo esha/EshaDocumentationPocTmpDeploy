@@ -1,0 +1,1 @@
+search_result['14079']=["topic_0000000000002307.html","NHibernateUnitOfWorkFactory\u0026lt;TUnitOfWork, TBulkLoadUnitOfWork\u0026gt;(IDatabaseManager, IDatabaseMigrator, IDomainExceptionMapper, IApplicationPaths, ILoggerFactory, IMetaDataProvider, INHibernateConfiguration) Constructor",""];

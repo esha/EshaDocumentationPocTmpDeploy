@@ -1,0 +1,1 @@
+search_result['6819']=["topic_0000000000000F92.html","Amount.Subtraction Operator",""];

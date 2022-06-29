@@ -1,0 +1,1 @@
+search_result['10961']=["topic_000000000000196A_overloads--.html","Quantity\u0026lt;T\u0026gt; Constructor","Initializes a new instance of the Quantity\u003cT\u003e struct."];

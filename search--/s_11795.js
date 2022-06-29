@@ -1,0 +1,1 @@
+search_result['11795']=["topic_0000000000001C5D.html","VisitListenerBase.RequestCancelVisit Method","Attempts to cancel a visitor by signaling cancellation via Cancellation. An observable visitor\r\nlike ObservableFoodVisitor can check Cancellation on all subscribed listeners request cancellation,\r\nand..."];

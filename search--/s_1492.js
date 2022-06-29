@@ -1,0 +1,1 @@
+search_result['1492']=["topic_00000000000003F7.html","NHibernateUnitTestFixture.MappingsAssembly Property","Assembly to load mapping files from (default is NHibernate.DomainModel)."];

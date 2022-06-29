@@ -1,0 +1,1 @@
+search_result['2973']=["topic_0000000000000761.html","IEntityCloner\u0026lt;T\u0026gt; Interface","Interface defining cloning operations.  Passed to factories to perform entity\r\nCloning on their behalf.\r\n\u003cparam\u003eTrue if the clone should have the same Id as the source. False if it should be left empt..."];

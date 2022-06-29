@@ -1,0 +1,1 @@
+search_result['7644']=["topic_000000000000116D_overloads--.html","ConversionMap.FindRightScalar Method","Computes a scalar Quantity \"k\" such that it satisfies the equation: from == new Amount(to.Unit, k * to.Quantity)."];

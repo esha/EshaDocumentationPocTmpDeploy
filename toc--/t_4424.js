@@ -1,0 +1,1 @@
+c['4424']=[['4425',"NHibernateUnitOfWorkFactory(ISessionFactory) Constructor","topic_0000000000002306.html",0],['4426',"NHibernateUnitOfWorkFactory(IDatabaseManager, IDatabaseMigrator, IDomainExceptionMapper, IApplicationPaths, ILoggerFactory, IMetaDataProvider, INHibernateConfiguration) Constructor","topic_0000000000002307.html",0]];

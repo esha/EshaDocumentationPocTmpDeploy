@@ -1,0 +1,1 @@
+c['10235']=[['10236',"TestDomainObjectsProviderBase() Constructor","topic_00000000000021B4.html",0],['10237',"TestDomainObjectsProviderBase(TestUnitOfWorkFactory) Constructor","topic_00000000000021B5.html",0]];

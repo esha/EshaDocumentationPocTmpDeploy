@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000002442.html"],['60',"Esha.DomainModel Namespace","topic_000000000000064C.html"],['2081',"ListenerSubscriptions Class","topic_0000000000001621.html"],['2082',"ListenerSubscriptions Constructor","topic_0000000000001622.html"]];

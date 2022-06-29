@@ -1,0 +1,1 @@
+search_result['9615']=["topic_000000000000162C.html","ListIndexComparer\u0026lt;TItem, TProperty\u0026gt;.Compare Method","Compares two objects and returns a value indicating whether one is less than, equal to, or greater than the other,\r\nas determined by the index of x and y in the list used to initialize\r\nthis comparer."];

@@ -1,0 +1,1 @@
+c['3862']=[['3863',"GetRuleListIdsForAlertType Method","topic_0000000000000625.html",0]];

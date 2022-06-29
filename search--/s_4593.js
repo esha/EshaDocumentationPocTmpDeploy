@@ -1,0 +1,1 @@
+search_result['4593']=["topic_0000000000000A68.html","AuthorizationRepositoryAdapter.RemoveEntitiesGroup Method","Removes the specified entities group.\r\n            Will also delete all permissions that are associated with this group."];

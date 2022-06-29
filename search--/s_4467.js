@@ -1,0 +1,1 @@
+search_result['4467']=["topic_0000000000000A15.html","GenericCompositeUserType\u0026lt;T\u0026gt;.GetMethod Property","Delegate for mapping values being returned from record to the implementer\u0027s Type."];

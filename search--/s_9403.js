@@ -1,0 +1,1 @@
+search_result['9403']=["topic_00000000000015BF.html","InitialWeightComputer Class","A BaseWeightComputer used to compute the total mass of the given nutrients using\r\nthe sum of the masses of the given nutrients and a target mass. The difference is then kept track of in\r\na vector repr..."];

@@ -1,0 +1,1 @@
+search_result['7634']=["topic_0000000000001165.html","ConversionMap.ContainsDimension Method","Returns a value indicating if any Unit contained in the graph has\r\nthe given Dimension."];

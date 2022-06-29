@@ -1,0 +1,1 @@
+search_result['10966']=["topic_000000000000196D.html","Quantity\u0026lt;T\u0026gt;.Value Property","The underlying value of the quantity."];

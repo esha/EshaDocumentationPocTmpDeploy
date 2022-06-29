@@ -1,0 +1,1 @@
+search_result['11443']=["topic_0000000000001A87.html","ServingBasedAggregateFood.SetNumberOfServings (Double, IUnitRepository) Method","Sets the number of servings for this recipe. We store this information in the Food.DefiningAmount."];

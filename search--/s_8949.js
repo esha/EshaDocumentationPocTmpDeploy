@@ -1,0 +1,1 @@
+search_result['8949']=["topic_0000000000001495.html","FoodVisitor(IFoodVisitorContext) Constructor","Initializes a new instance of the FoodVisitor class."];

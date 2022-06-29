@@ -1,0 +1,1 @@
+search_result['14417']=["topic_00000000000023BB.html","IRepository.Query Method","Generates a query over the entities contained in this repository."];

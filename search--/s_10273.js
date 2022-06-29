@@ -1,0 +1,1 @@
+search_result['10273']=["topic_00000000000017C2.html","NutrientVector.Addition (IEnumerable\u0026lt;NutrientQuantity\u0026gt;, NutrientVector) Operator","Adds two NutrientVector instances."];

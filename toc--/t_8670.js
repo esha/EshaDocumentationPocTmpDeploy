@@ -1,0 +1,1 @@
+c['8670']=[['8671',"Us2016Ncc_CaloriesLow_NotSatisfiedIfRaccHasMoreThan40 Method","topic_00000000000004FF.html",0],['8672',"Us2016Ncc_CaloriesLow_SatisfiedIfRaccHasLessThan40 Method","topic_00000000000004FE.html",0]];

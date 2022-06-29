@@ -1,0 +1,1 @@
+search_result['6208']=["topic_0000000000000E2E.html","SearchFilterFactory.CreateDefaultSearchFilter Method","Creates a new SearchFilter instance with default values. All criteria are null except IsArchived, which is set to false to filter out archived documents by default."];

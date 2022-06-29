@@ -1,0 +1,1 @@
+search_result['11706']=["topic_0000000000001C25.html","VersionedEntityLifecycle Class","A list of phases or states that a VersionedEntity can be in. There is one phase that\r\nindicates that the entity is \u0027approved\u0027 and thus can no longer be revised."];

@@ -1,0 +1,1 @@
+search_result['6817']=["topic_0000000000000F90.html","Amount.Inequality Operator","Implements the operator !=."];

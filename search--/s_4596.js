@@ -1,0 +1,1 @@
+search_result['4596']=["topic_0000000000000A6B.html","AuthorizationRepositoryAdapter.GetAncestryAssociationOfEntity\u0026lt;TEntity\u0026gt; Method","Gets the ancestry association of an entity with the named entity group.\r\n            This allows to track how an entity is associated to a group through\r\n            their ancestry."];

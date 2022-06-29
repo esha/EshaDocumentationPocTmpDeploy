@@ -1,0 +1,1 @@
+search_result['9607']=["topic_0000000000001629.html","ListenerSubscriptions.GetAwaiter Method","Gets an awaiter (INotifyCompletion) that C# uses to await the instance."];

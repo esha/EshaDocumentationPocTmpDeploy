@@ -1,0 +1,1 @@
+c['5156']=[['5157',"BooleanLabelOption() Constructor","topic_00000000000008DE.html",0],['5158',"BooleanLabelOption(Guid, Regulation, RegulationNutrient, GlobalString, GlobalString, string, LabelSection) Constructor","topic_00000000000008DF.html",0]];

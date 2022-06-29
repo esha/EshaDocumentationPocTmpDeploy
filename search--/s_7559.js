@@ -1,0 +1,1 @@
+search_result['7559']=["topic_0000000000001135.html","Conversion.InverseScale Property","Gets the Quantity of the ToUnit which equals FromQuantity."];

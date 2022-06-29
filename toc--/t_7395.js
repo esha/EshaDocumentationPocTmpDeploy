@@ -1,0 +1,1 @@
+c['7395']=[['7396',"Adjusting449CalorieComputerTest Constructor","topic_0000000000000090.html",0],['7397',"Methods","topic_000000000000008F_methods--.html",1]];

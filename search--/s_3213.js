@@ -1,0 +1,1 @@
+search_result['3213']=["topic_00000000000007D3.html","IFoodVisitorFactory.CreateActualNutrientsAnalysisVisitor Method","Creates an analysis visitor for the given amount of food, given nutrients to analyze, all non-claim nutrient transforms\r\nwith weight in the specified unit."];

@@ -1,0 +1,1 @@
+search_result['6143']=["topic_0000000000000DF6.html","LuceneQueryBuilder Constructor",""];

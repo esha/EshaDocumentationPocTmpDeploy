@@ -1,0 +1,1 @@
+search_result['8452']=["topic_000000000000134D.html","Food.IsApprovalAllowedInternal Method","Checks if Approval is allowed for the given Food by checking all of the items.\r\n    If all of the items are approved then the food can be approved."];

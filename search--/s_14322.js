@@ -1,0 +1,1 @@
+search_result['14322']=["topic_000000000000238B.html","IDatabaseManager.CreateDatabase Method","Creates an empty database."];

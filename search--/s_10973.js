@@ -1,0 +1,1 @@
+search_result['10973']=["topic_0000000000001972.html","Quantity\u0026lt;T\u0026gt;.Equals (Quantity\u0026lt;T\u0026gt;) Method","The equals."];

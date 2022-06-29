@@ -1,0 +1,1 @@
+search_result['4763']=["topic_0000000000000AC8.html","NHibernateFoodUnitOfWork.CreateFoodItemFactory Method","Gets the food item factory for this unit of work."];

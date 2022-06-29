@@ -1,0 +1,1 @@
+search_result['8905']=["topic_0000000000001479.html","FoodVisitListener\u0026lt;TResult\u0026gt; Class","Typical base class for a food visit listener that results in a value. Calls specific methods depending on the values of\r\nVisitedComponentType and VisitSequence per received FoodVisitation event."];

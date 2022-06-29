@@ -1,0 +1,1 @@
+search_result['7645']=["topic_000000000000116E.html","ConversionMap.FindRightScalar (Unit, Unit) Method","Computes a scalar Quantity \"k\" converting 1 unit of\r\nfrom into 1 unit of to such that it satisfies the equation:\r\nfrom == new Amount(to.Unit, k * to.Quantity)."];

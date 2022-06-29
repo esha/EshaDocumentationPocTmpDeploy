@@ -1,0 +1,1 @@
+search_result['4936']=["topic_0000000000000B2C_overloads--.html","PermissionsServiceAdapter.GetPermissionsFor\u0026lt;TEntity\u0026gt; Method","Gets the permissions for the specified user and entity"];

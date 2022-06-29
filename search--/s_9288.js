@@ -1,0 +1,1 @@
+search_result['9288']=["topic_0000000000001577.html","IMakeReadOnly.MakeReadOnly Method","Makes the instance read only."];

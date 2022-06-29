@@ -1,0 +1,1 @@
+c['4423']=[['4424',"NHibernateUnitOfWorkFactory\u003cTUnitOfWork, TBulkLoadUnitOfWork\u003e Constructor","topic_0000000000002306_overloads--.html",1],['4427',"Properties","topic_0000000000002305_props--.html",1],['4435',"Methods","topic_0000000000002305_methods--.html",1]];

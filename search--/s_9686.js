@@ -1,0 +1,1 @@
+search_result['9686']=["topic_000000000000164D.html","NullDatabaseManager.DropDatabase Method","Drops the managed database."];

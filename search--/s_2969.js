@@ -1,0 +1,1 @@
+search_result['2969']=["topic_000000000000075D.html","IDefinedByServings.SetNumberOfServings Method","Sets the number of servings for this recipe. We store this information in the Food.DefiningAmount."];

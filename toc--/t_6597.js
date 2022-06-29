@@ -1,0 +1,1 @@
+c['6597']=[['6598',"RegulationLanguage() Constructor","topic_0000000000000CFE.html",0],['6599',"RegulationLanguage(Guid, Regulation, Language, string, bool) Constructor","topic_0000000000000CFF.html",0]];

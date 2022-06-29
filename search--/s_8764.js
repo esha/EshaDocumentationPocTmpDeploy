@@ -1,0 +1,1 @@
+search_result['8764']=["topic_0000000000001422.html","FoodItemEdge\u0026lt;TVertex\u0026gt;.IsVisited Property","Gets or sets a value indicating whether this instance is visited."];

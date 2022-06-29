@@ -1,0 +1,1 @@
+c['2582']=[['2583',"ObservableFoodVisitor Constructor","topic_0000000000001803.html",0],['2584',"Methods","topic_0000000000001802_methods--.html",1]];

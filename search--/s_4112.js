@@ -1,0 +1,1 @@
+search_result['4112']=["topic_0000000000000964.html","FieldNameConstants Class","Provides convenient access to commonly referenced field names in the Lucene index. These names should\r\nmatch the indexed property name according to the entity metamodel (e.g. FoodMetamodel.AmountCost)..."];

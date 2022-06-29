@@ -1,0 +1,1 @@
+c['5071']=[['5072',"Inverse Property","topic_0000000000000825.html",0],['5073',"IsClaimTransform Property","topic_0000000000000824.html",0],['5074',"IsInvertible Property","topic_0000000000000823.html",0]];

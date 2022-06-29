@@ -1,0 +1,1 @@
+search_result['3217']=["topic_00000000000007D6.html","IFoodVisitorFactory.CreateCostVisitor (Amount, IFoodVisitorContext, Boolean) Method","Creates a cost visitor."];

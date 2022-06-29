@@ -1,0 +1,1 @@
+c['533']=[['534',"BatchSize() Constructor","topic_0000000000001098.html",0],['535',"BatchSize(int, int) Constructor","topic_0000000000001099.html",0],['536',"BatchSize(Quantity, Quantity) Constructor","topic_000000000000109A.html",0]];

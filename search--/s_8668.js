@@ -1,0 +1,1 @@
+search_result['8668']=["topic_00000000000013DF.html","FoodGroup.InternalClone Method","Creates a clone of this entity. All entity references will be copied, but not the\r\nentity the reference points to."];

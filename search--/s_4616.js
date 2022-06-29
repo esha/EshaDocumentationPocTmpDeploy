@@ -1,0 +1,1 @@
+search_result['4616']=["topic_0000000000000A7B.html","AuthorizationRepositoryAdapter.RemovePermission Method","Removes the specified permission."];

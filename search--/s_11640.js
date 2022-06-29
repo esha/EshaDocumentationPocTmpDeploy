@@ -1,0 +1,1 @@
+search_result['11640']=["topic_0000000000001BF7.html","VectorNutrientTransform.NutrientTransformType Property","Gets the type of transform."];

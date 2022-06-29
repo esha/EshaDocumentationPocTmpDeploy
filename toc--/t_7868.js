@@ -1,0 +1,1 @@
+c['7868']=[['7869',"InitialWeightComputerCreationSucceeds Method","topic_0000000000000250.html",0],['7870',"SetFixture Method","topic_0000000000000252.html",0],['7871',"WithInitialCaloriesPresentIsCorrect Method","topic_0000000000000251.html",0]];

@@ -1,0 +1,1 @@
+c['2071']=[['2072',"Derive Method","topic_000000000000161E.html",0],['2073',"Derive\u003cTEntity\u003e Method","topic_000000000000161D_overloads--.html",1],['2076',"Extract Method","topic_0000000000001620.html",0]];

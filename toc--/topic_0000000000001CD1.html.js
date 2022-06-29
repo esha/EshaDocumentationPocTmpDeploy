@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000002442.html"],['6',"Esha.Data.SqlServer Namespace","topic_0000000000001CAA.html"],['49',"SqlServerDomainExceptionMapper Class","topic_0000000000001CCF.html"],['50',"Methods","topic_0000000000001CCF_methods--.html"],['51',"CanMap Method","topic_0000000000001CD1.html"]];

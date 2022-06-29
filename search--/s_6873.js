@@ -1,0 +1,1 @@
+search_result['6873']=["topic_0000000000000FB2.html","AmountVertex Constructor","Initializes a new instance of the AmountVertex class."];

@@ -1,0 +1,1 @@
+c['696']=[['697',"AddFoods(IEnumerable\u003cFoodItem\u003e, CancellationToken) Method","topic_000000000000110B.html",0],['698',"AddFoods(IFoodItemFactory, IEnumerable\u003cIngredient\u003e, CancellationToken) Method","topic_000000000000110D.html",0]];

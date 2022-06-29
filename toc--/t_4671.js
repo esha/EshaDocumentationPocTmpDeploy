@@ -1,0 +1,1 @@
+c['4671']=[['4672',"TextElement(string, Quantity, string, string, StyleFlags, Case, Separator) Constructor","topic_00000000000006FC.html",0],['4673',"TextElement(IIngredientStatementItem, Quantity) Constructor","topic_00000000000006FA.html",0],['4674',"TextElement(string, Quantity) Constructor","topic_00000000000006FB.html",0]];

@@ -1,0 +1,1 @@
+search_result['14457']=["topic_00000000000023D0.html","IRepository\u0026lt;TRootEntity\u0026gt;.Merge (TRootEntity, Func\u0026lt;TRootEntityTRootEntityTRootEntity\u0026gt;) Method","This should be the same meaning as in NHibernate Session.Merge."];

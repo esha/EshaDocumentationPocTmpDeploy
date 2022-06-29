@@ -1,0 +1,1 @@
+c['8259']=[['8260',"CreateFormula Method","topic_00000000000003B1.html",0],['8261',"FoodImageDeletesSuccessfully Method","topic_00000000000003B0.html",0],['8262',"FoodImageNotApartOfAttachments Method","topic_00000000000003AF.html",0],['8263',"FoodImageSavesSuccessfully Method","topic_00000000000003AE.html",0]];

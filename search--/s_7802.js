@@ -1,0 +1,1 @@
+search_result['7802']=["topic_00000000000011BC.html","DecimalQuantity.Explicit Conversion (DecimalQuantity to Decimal) Operator",""];

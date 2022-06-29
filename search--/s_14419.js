@@ -1,0 +1,1 @@
+search_result['14419']=["topic_00000000000023BD.html","IRepository.Contains (Object) Method","Determines if the given entity is contained in the repository."];

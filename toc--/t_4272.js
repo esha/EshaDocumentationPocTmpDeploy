@@ -1,0 +1,1 @@
+c['4272']=[['4273',"GlobalStringEqualsHqlGenerator Constructor","topic_0000000000002272.html",0],['4274',"Methods","topic_0000000000002271_methods--.html",1]];

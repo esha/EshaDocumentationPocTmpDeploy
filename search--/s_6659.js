@@ -1,0 +1,1 @@
+search_result['6659']=["topic_0000000000000F27.html","AggregateFood.Analyze Method","Analyzes the food as described by the AnalysisVisitor properties."];

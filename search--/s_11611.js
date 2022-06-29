@@ -1,0 +1,1 @@
+search_result['11611']=["topic_0000000000001BE9.html","Unit.Implicit Conversion (Unit to Nullable) Operator","Implicit conversion to a StandardUnits value for tidier comparisons."];

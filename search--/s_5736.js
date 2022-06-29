@@ -1,0 +1,1 @@
+search_result['5736']=["topic_0000000000000D10.html","RegulationNutrient.IsCoreNutrient Property","whether the nutrient is a core nutrient"];

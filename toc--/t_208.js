@@ -1,0 +1,1 @@
+c['208']=[['209',"Amount Constructor","topic_0000000000000F88_overloads--.html",1],['214',"Properties","topic_0000000000000F86_props--.html",1],['218',"Methods","topic_0000000000000F86_methods--.html",1],['239',"Fields","topic_0000000000000F86_vars--.html",1]];

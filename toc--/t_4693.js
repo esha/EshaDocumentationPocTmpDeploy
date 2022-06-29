@@ -1,0 +1,1 @@
+c['4693']=[['4694',"Add(ITextElement) Method","topic_000000000000070B.html",0],['4695',"Add(TextElementList) Method","topic_000000000000070C.html",0]];

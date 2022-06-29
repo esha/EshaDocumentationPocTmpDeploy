@@ -1,0 +1,1 @@
+search_result['4840']=["topic_0000000000000B01.html","NhLinqExtensions\u0026lt;T\u0026gt;.ToFutureValue\u0026lt;TResult\u0026gt; Method",""];

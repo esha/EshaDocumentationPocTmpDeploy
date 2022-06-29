@@ -1,0 +1,1 @@
+search_result['11262']=["topic_0000000000001A1E_overloads--.html","Recommendation Constructor","Initializes a new instance of the Recommendation class.\r\nNo argument ctor for Nhibernate."];

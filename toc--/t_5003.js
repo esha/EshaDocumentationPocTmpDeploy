@@ -1,0 +1,1 @@
+c['5003']=[['5004',"CountByFieldName Method","topic_00000000000007EE.html",0],['5005',"Query Method","topic_00000000000007EC_overloads--.html",1],['5007',"QueryAsync Method","topic_00000000000007ED.html",0],['5008',"RebuildIndex Method","topic_00000000000007EF.html",0],['5009',"UpdateIndex Method","topic_00000000000007F0.html",0]];

@@ -1,0 +1,1 @@
+search_result['1825']=["topic_00000000000004BC.html","TestDataReader.GetSchemaTable Method","Returns a DataTable that describes the column metadata of the IDataReader."];

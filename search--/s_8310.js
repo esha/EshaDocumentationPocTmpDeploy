@@ -1,0 +1,1 @@
+search_result['8310']=["topic_00000000000012D7.html","Food.AmountCost Property","Gets or sets the AmountCost, a cost (in Money) at a particular Amount,\r\n    for the food."];

@@ -1,0 +1,1 @@
+search_result['6670']=["topic_0000000000000F2F.html","AggregateFood.ComputeWeightWhenThereAreNoItems Method","If the aggregate food has no items, all requests for weight mesaures should be considered of being made of\r\nunknown components, but remain the weight requested. Requests for as-is should be zero."];

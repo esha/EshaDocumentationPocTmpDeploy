@@ -1,0 +1,1 @@
+search_result['4933']=["topic_0000000000000B2B.html","PermissionsServiceAdapter.GetPermissionsFor (IUser) Method","Gets the permissions for the specified user"];

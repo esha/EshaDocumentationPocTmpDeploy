@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000002442.html"],['60',"Esha.DomainModel Namespace","topic_000000000000064C.html"],['1385',"FoodAllergen Class","topic_0000000000001361.html"],['1386',"FoodAllergen Constructor","topic_0000000000001362_overloads--.html"],['1387',"FoodAllergen() Constructor","topic_0000000000001362.html"]];

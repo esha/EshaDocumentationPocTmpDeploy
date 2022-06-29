@@ -1,0 +1,1 @@
+search_result['14464']=["topic_00000000000023D4_overloads--.html","IRepository\u0026lt;TRootEntity\u0026gt;.Contains Method","Checks if an entity is contained in the repository."];

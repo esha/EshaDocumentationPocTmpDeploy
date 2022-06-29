@@ -1,0 +1,1 @@
+search_result['6746']=["topic_0000000000000F5E.html","AllergenGroup.GroupType Property","Gets GroupType."];

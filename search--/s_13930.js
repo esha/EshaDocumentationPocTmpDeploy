@@ -1,0 +1,1 @@
+search_result['13930']=["topic_000000000000229E.html","NHibernateBaseUnitOfWork.Clear Method",""];

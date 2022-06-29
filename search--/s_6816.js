@@ -1,0 +1,1 @@
+search_result['6816']=["topic_0000000000000F8F.html","Amount.Equality Operator","Implements the operator ==."];

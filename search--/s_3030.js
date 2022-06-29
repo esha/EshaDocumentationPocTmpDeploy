@@ -1,0 +1,1 @@
+search_result['3030']=["topic_0000000000000771.html","IFoodFactory Interface","Defines contract for Food entities factory."];

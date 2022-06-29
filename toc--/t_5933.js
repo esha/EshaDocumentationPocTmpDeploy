@@ -1,0 +1,1 @@
+c['5933']=[['5934',"IndexingException(SerializationInfo, StreamingContext) Constructor","topic_00000000000009F3.html",0],['5935',"IndexingException(string) Constructor","topic_00000000000009F2.html",0]];

@@ -1,0 +1,1 @@
+search_result['8326']=["topic_00000000000012E7.html","Food.LegacyNutrientRefNum Property","Gets or sets the legacy ESHA nutrient ref num for the food, used in SQL Apps."];

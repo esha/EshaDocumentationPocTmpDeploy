@@ -1,0 +1,1 @@
+search_result['11217']=["topic_00000000000019FB.html","Recipe.CookTime Property","Gets or sets the cooking time text for this recipe."];

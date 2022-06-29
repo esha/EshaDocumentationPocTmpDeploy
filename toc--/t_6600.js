@@ -1,0 +1,1 @@
+c['6600']=[['6601',"CanBePrimaryLanguage Property","topic_0000000000000D02.html",0],['6602',"Language Property","topic_0000000000000D01.html",0],['6603',"Regulation Property","topic_0000000000000D00.html",0]];

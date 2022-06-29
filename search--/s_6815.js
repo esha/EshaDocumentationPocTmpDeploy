@@ -1,0 +1,1 @@
+search_result['6815']=["topic_0000000000000F8E.html","Amount.Dimension Property","Gets the dimension of Unit. A convenience property."];

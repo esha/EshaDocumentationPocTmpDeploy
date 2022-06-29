@@ -1,0 +1,1 @@
+search_result['8019']=["topic_0000000000001230.html","DoubleQuantity.Explicit Conversion (DoubleQuantity to Double) Operator",""];

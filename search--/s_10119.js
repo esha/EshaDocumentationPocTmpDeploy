@@ -1,0 +1,1 @@
+search_result['10119']=["topic_000000000000175E.html","NutrientProfileFactory.CreateNutrientProfile (Nullable\u0026lt;Guid\u0026gt;, NutrientVector, Amount, ConversionMap, String) Method","Creates a NutrientProfile based on the given definingAmount."];

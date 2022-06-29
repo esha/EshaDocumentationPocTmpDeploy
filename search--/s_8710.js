@@ -1,0 +1,1 @@
+search_result['8710']=["topic_00000000000013FF.html","FoodItem.RemoveNutrientTransforms (NutrientTransform()) Method","Removes the given nutrient transforms."];

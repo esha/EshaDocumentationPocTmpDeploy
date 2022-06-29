@@ -1,0 +1,1 @@
+c['161']=[['162',"AllergenGroup Constructor","topic_0000000000000F57_overloads--.html",1],['168',"Properties","topic_0000000000000F56_props--.html",1],['172',"Methods","topic_0000000000000F56_methods--.html",1]];

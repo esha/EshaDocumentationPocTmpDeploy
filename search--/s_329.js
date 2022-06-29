@@ -1,0 +1,1 @@
+search_result['329']=["topic_00000000000000CC.html","AmountTests.GetHashcodeOnDoubleMaxOrMinQuantityShouldNotOverflow Method","This test ensures that the GetHashCode method on DoubleQuantity is sensitive to possible\r\noverflow and uses the Double\u0027s hashcode if the double value exceeds the range of Decimal type."];

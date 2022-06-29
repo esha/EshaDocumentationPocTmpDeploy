@@ -1,0 +1,1 @@
+search_result['9658']=["topic_000000000000163D.html","NameUniquenessExtensions.EnsureUniqueName Method","Ensures the NamedEntity has a name that is unique from all others in an IUnitOfWork\r\ninstance and/or an IEnumerable\u003cT\u003e collection."];

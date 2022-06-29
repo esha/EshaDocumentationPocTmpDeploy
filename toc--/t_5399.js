@@ -1,0 +1,1 @@
+c['5399']=[['5400',"Description Property","topic_00000000000008C5.html",0],['5401',"MaxItemCount Property","topic_00000000000008C4.html",0],['5402',"MinItemCount Property","topic_00000000000008C3.html",0],['5403',"Regulation Property","topic_00000000000008C2.html",0]];

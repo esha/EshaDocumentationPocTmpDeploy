@@ -1,0 +1,1 @@
+search_result['8695']=["topic_00000000000013F2.html","FoodItem.IsExcludedFromAnalysis Property","Gets or sets a value indicating whether this food item is excluded from analysis."];

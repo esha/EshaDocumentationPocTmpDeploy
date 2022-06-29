@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000002442.html"],['3845',"Esha.DomainModel.Alerts Namespace","topic_0000000000000617.html"],['3875',"RuleResultAlertListener Class","topic_000000000000063C.html"],['3879',"Methods","topic_000000000000063C_methods--.html"],['3882',"OnVisitStartedAsync Method","topic_0000000000000640.html"]];

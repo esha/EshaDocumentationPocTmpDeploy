@@ -1,0 +1,1 @@
+c['5653']=[['5654',"GetGlobalPermissionsFor Method","topic_0000000000000B2D_overloads--.html",1],['5657',"GetPermissionsFor Method","topic_0000000000000B2B_overloads--.html",1],['5661',"GetPermissionsFor\u003cTEntity\u003e Method","topic_0000000000000B2C_overloads--.html",1]];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000002442.html"],['8617',"Esha.DomainModel.Tests.NutrientContentClaims.NccConditions Namespace","topic_00000000000004D4.html"],['8661',"Us2016NccCaloriesLightUnitTests Class","topic_00000000000004F6.html"],['8662',"Methods","topic_00000000000004F6_methods--.html"]];

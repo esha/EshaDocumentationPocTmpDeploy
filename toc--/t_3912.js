@@ -1,0 +1,1 @@
+c['3912']=[['3913',"CalculatedValue Property","topic_0000000000000659.html",0],['3914',"FoodAttribute Property","topic_0000000000000657.html",0],['3915',"UserSetValue Property","topic_0000000000000658.html",0],['3916',"Value Property","topic_000000000000065A.html",0]];

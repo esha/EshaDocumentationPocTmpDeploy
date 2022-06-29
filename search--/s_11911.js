@@ -1,0 +1,1 @@
+search_result['11911']=["topic_0000000000001CB2.html","Sql2008DatabaseManager.DatabaseVersion Property","Gets the version of the database being managed."];

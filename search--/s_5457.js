@@ -1,0 +1,1 @@
+search_result['5457']=["topic_0000000000000C73.html","NutrientContentClaimText Class","Text string for a claim to appear on product packaging.  Claim definitions provide a set of acceptable text options\r\nfor the claim.\r\nUser selected text gets associated with the FoodClaim that has been..."];

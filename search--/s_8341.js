@@ -1,0 +1,1 @@
+search_result['8341']=["topic_00000000000012F6.html","Food.IsArchived Property","True/false whether or not the RootEntity should be marked as archived and hidden from\r\naspects of the application."];

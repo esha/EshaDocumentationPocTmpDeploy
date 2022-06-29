@@ -1,0 +1,1 @@
+search_result['3302']=["topic_00000000000007F4.html","IIndexManager.RebuildAllIndexes Method","Purge and rebuild all full text indexes."];

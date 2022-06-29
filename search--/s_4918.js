@@ -1,0 +1,1 @@
+search_result['4918']=["topic_0000000000000B25.html","PermissionsBuilderServiceAdapter.Allow (String) Method","Allow permission for the specified operation."];

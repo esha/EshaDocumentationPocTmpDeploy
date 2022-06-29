@@ -1,0 +1,1 @@
+search_result['14012']=["topic_00000000000022DA.html","NHibernateRepository.GetCollectionsForEntity Method",""];

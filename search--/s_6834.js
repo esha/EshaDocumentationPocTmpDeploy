@@ -1,0 +1,1 @@
+search_result['6834']=["topic_0000000000000F9A.html","Amount.Multiply (Decimal, Amount) Operator",""];

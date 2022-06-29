@@ -1,0 +1,1 @@
+search_result['1806']=["topic_00000000000004AB.html","TestDataReader.GetChars Method","Reads a stream of characters from the specified column offset into the buffer as an array, starting at the given buffer offset."];

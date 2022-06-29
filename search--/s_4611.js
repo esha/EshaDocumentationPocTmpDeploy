@@ -1,0 +1,1 @@
+search_result['4611']=["topic_0000000000000A76.html","AuthorizationRepositoryAdapter.CreateOperation Method","Creates the operation with the given name"];

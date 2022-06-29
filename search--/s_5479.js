@@ -1,0 +1,1 @@
+search_result['5479']=["topic_0000000000000C7D.html","SelectedNutrientContentClaim Class","An instance of a claim made about nutrients in a food.  Binds a recipe with the claim and the name (SelectedClaimText) chosen for the claim\r\non the related recipe."];

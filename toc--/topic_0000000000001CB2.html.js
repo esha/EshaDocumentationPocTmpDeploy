@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000002442.html"],['6',"Esha.Data.SqlServer Namespace","topic_0000000000001CAA.html"],['10',"Sql2008DatabaseManager Class","topic_0000000000001CAD.html"],['12',"Properties","topic_0000000000001CAD_props--.html"],['14',"DatabaseVersion Property","topic_0000000000001CB2.html"]];

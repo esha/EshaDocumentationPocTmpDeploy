@@ -1,0 +1,1 @@
+c['6374']=[['6375',"CaloriesFreeCondition Constructor","topic_0000000000000C01.html",0],['6376',"Methods","topic_0000000000000BFF_methods--.html",1],['6378',"Fields","topic_0000000000000BFF_vars--.html",1]];

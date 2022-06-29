@@ -1,0 +1,1 @@
+search_result['7603']=["topic_000000000000114D.html","ConversionMap(IEnumerable\u0026lt;AmountAmount)\u0026gt;) Constructor","Initializes a new instance of the ConversionMap class."];

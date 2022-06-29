@@ -1,0 +1,1 @@
+search_result['5743']=["topic_0000000000000D17.html","RegulationNutrient.IsInline Property","If the nutrient appears inline on the label"];

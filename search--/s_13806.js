@@ -1,0 +1,1 @@
+search_result['13806']=["topic_0000000000002264.html","VersionOrderedEmbeddedScriptProvider(Assembly, Func\u0026lt;StringBoolean\u0026gt;, Encoding) Constructor","Initializes a new instance of the EmbeddedScriptProvider class."];

@@ -1,0 +1,1 @@
+search_result['9167']=["topic_000000000000153D.html","Haccp.GroupType Property","Gets GroupType."];

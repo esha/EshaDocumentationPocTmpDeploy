@@ -1,0 +1,1 @@
+search_result['1802']=["topic_00000000000004A7.html","TestDataReader.GetBoolean Method","Gets the value of the specified column as a Boolean."];

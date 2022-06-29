@@ -1,0 +1,1 @@
+search_result['3202']=["topic_00000000000007CF.html","IFoodVisitorBuilder.BuildVisitor Method","Builds an instance of ObservableFoodVisitor and creates and subscribes all listeners added via AddListenerFactory."];

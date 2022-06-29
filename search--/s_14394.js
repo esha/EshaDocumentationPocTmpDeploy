@@ -1,0 +1,1 @@
+search_result['14394']=["topic_00000000000023AC.html","IRepository.EntityType Property","Gets the runtime Type of the model entity contained in this repository."];

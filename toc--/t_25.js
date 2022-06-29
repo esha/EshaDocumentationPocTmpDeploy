@@ -1,0 +1,1 @@
+c['25']=[['26',"SqlServer2012DatabaseManager Constructor","topic_0000000000001CBB.html",0],['27',"Properties","topic_0000000000001CBA_props--.html",1]];

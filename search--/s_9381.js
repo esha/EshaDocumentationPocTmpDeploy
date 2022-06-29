@@ -1,0 +1,1 @@
+search_result['9381']=["topic_00000000000015AB.html","Ingredient.CopyFrom Method","Copies the values of the given food into the food this method is invoked on."];

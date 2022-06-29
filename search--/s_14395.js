@@ -1,0 +1,1 @@
+search_result['14395']=["topic_00000000000023AD.html","IRepository.Get (Guid) Method","Gets an entity from the repository by its EshaEntity.Id."];

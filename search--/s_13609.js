@@ -1,0 +1,1 @@
+search_result['13609']=["topic_00000000000021F6.html","TestRepositoryInterceptor.SaveEntities Property","Gets or sets the method used to intercept IRepository.SaveAll."];

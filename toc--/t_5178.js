@@ -1,0 +1,1 @@
+c['5178']=[['5179',"IntegerLabelOption Constructor","topic_00000000000008ED_overloads--.html",1],['5183',"Properties","topic_00000000000008EC_props--.html",1],['5187',"Methods","topic_00000000000008EC_methods--.html",1]];

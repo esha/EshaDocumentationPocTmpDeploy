@@ -1,0 +1,1 @@
+c['1533']=[['1534',"FoodItem() Constructor","topic_00000000000013E4.html",0],['1535',"FoodItem(SerializationInfo, StreamingContext) Constructor","topic_00000000000013E3.html",0],['1536',"FoodItem(Guid, Food, Amount, string) Constructor","topic_00000000000013E2.html",0]];

@@ -1,0 +1,1 @@
+search_result['11456']=["topic_0000000000001A92.html","SpecificAmountFoodVisitListener\u0026lt;TResult\u0026gt; Class","A FoodVisitListener which can be initialized with a certain amount, then be able to translate the amount\r\nof food visited (usually 1 As-is) into amounts scaled by the specified root amount per FoodIte..."];

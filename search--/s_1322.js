@@ -1,0 +1,1 @@
+search_result['1322']=["topic_00000000000003A4.html","DebugConnectionProvider Class","This connection provider keeps a list of all open connections,\r\nit is used when testing to check that tests clean up after themselves."];

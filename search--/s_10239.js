@@ -1,0 +1,1 @@
+search_result['10239']=["topic_00000000000017AB.html","NutrientVector(Boolean) Constructor","Initializes a new instance of the NutrientVector class."];

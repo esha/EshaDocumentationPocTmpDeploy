@@ -1,0 +1,1 @@
+search_result['4565']=["topic_0000000000000A5B.html","AnalysisSaveOrUpdateEventListener Class","Saves all Analysis objects for a Food when the Food is saved or updated.\r\n Also, deletes any Analysis objects that no longer belong to the Food."];

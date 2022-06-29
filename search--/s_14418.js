@@ -1,0 +1,1 @@
+search_result['14418']=["topic_00000000000023BC.html","IRepository.CancelQuery Method","Requests that the currently executing query, if one exists, be canceled."];

@@ -1,0 +1,1 @@
+search_result['11910']=["topic_0000000000001CB1.html","Sql2008DatabaseManager.ProviderName Property","Gets the database provider invariant name."];

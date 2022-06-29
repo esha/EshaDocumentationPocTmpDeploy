@@ -1,0 +1,1 @@
+search_result['6373']=["topic_0000000000000E8C.html","RhinoSecurityIQueryableExtensions.FilterByPermissions\u0026lt;TEntity\u0026gt; (IQueryable\u0026lt;TEntity\u0026gt;, IUser, String, IFoodUnitOfWork) Method","Filter out all entities on which the given user lacks permission to do the given operation."];

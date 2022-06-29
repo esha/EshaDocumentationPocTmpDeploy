@@ -1,0 +1,1 @@
+search_result['2968']=["topic_000000000000075C.html","IDefinedByServings.ComputeNumberOfServings Method","Gets the number of servings for this recipe"];

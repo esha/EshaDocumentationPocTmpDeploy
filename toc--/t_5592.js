@@ -1,0 +1,1 @@
+c['5592']=[['5593',"LoggerFor(string) Method","topic_0000000000000B0B.html",0],['5594',"LoggerFor(Type) Method","topic_0000000000000B0A.html",0]];

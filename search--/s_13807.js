@@ -1,0 +1,1 @@
+search_result['13807']=["topic_0000000000002264_overloads--.html","VersionOrderedEmbeddedScriptProvider Constructor","Initializes a new instance of the EmbeddedScriptProvider class."];

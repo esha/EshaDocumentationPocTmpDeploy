@@ -1,0 +1,1 @@
+c['6544']=[['6545',"LabelNutrient(RegulationNutrient, TranslatedNutrientName, string, string, string, bool) Constructor","topic_0000000000000CD2.html",0],['6546',"LabelNutrient(RegulationNutrient, TranslatedNutrientName, string, string, string, bool, GlobalString, GlobalString) Constructor","topic_0000000000000CD3.html",0]];

@@ -1,0 +1,1 @@
+c['6596']=[['6597',"RegulationLanguage Constructor","topic_0000000000000CFE_overloads--.html",1],['6600',"Properties","topic_0000000000000CFD_props--.html",1],['6604',"Methods","topic_0000000000000CFD_methods--.html",1]];

@@ -1,0 +1,1 @@
+search_result['4934']=["topic_0000000000000B2B_overloads--.html","PermissionsServiceAdapter.GetPermissionsFor Method","Gets the permissions for the specified user"];

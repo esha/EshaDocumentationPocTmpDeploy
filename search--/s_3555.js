@@ -1,0 +1,1 @@
+search_result['3555']=["topic_0000000000000847_overloads--.html","IStandardsRepository\u0026lt;TEntity, TEnum\u0026gt;.GetStandardAsync Method",""];

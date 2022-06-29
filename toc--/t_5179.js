@@ -1,0 +1,1 @@
+c['5179']=[['5180',"IntegerLabelOption(Guid, Regulation, RegulationNutrient, GlobalString, GlobalString, string, LabelSection, int, int) Constructor","topic_00000000000008EF.html",0],['5181',"IntegerLabelOption() Constructor","topic_00000000000008ED.html",0],['5182',"IntegerLabelOption(Nullable\u003cGuid\u003e) Constructor","topic_00000000000008EE.html",0]];

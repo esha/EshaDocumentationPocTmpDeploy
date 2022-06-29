@@ -1,0 +1,1 @@
+search_result['14043']=["topic_00000000000022F0.html","NHibernateRepository\u0026lt;TEntity\u0026gt;.Reference Method","Gets some kind of lazy object for the given entity id used to build entity references.\r\nMay be a proxy or a ghost object. If proxy, it may be fully loaded."];

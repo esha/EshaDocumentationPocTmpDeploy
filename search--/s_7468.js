@@ -1,0 +1,1 @@
+search_result['7468']=["topic_0000000000001108.html","CompositeIngredient.FindRightScaleToServing Method","The scalar to convert a value from the total amount as entered in the aggregate food to the specific amount requested."];

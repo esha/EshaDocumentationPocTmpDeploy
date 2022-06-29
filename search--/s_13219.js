@@ -1,0 +1,1 @@
+search_result['13219']=["topic_00000000000020F2.html","LocalDbTestDatabaseManager.DatabaseVersion Property","Gets the version of the database being managed."];

@@ -1,0 +1,1 @@
+search_result['4949']=["topic_0000000000000B33.html","PermissionsServiceAdapter.GetPermissionsFor\u0026lt;TEntity\u0026gt; (TEntity) Method","Gets the permissions for the specified entity"];

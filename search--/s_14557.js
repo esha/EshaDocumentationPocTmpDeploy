@@ -1,0 +1,1 @@
+search_result['14557']=["topic_0000000000002408.html","NamedEntity.CopyTo Method","Copies the state of the entity to another entity of the same type."];

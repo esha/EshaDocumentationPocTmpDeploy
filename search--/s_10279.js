@@ -1,0 +1,1 @@
+search_result['10279']=["topic_00000000000017C5.html","NutrientVector.Subtraction Operator","Subtracts two NutrientVector instances."];

@@ -1,0 +1,1 @@
+search_result['4609']=["topic_0000000000000A75.html","AuthorizationRepositoryAdapter.AssociateUserWith (IUser, UsersGroup) Method","Associates the user with a group with the specified name"];

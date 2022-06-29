@@ -1,0 +1,1 @@
+search_result['4769']=["topic_0000000000000ACE.html","NHibernateFoodUnitOfWork.CreateAnalysisOverridesFactory Method","Gets the analysis overrides factory for this unit of work."];

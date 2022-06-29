@@ -1,0 +1,1 @@
+c['6679']=[['6680',"ConditionResult Property","topic_0000000000000DB0.html",0],['6681',"Entity Property","topic_0000000000000DAE.html",0],['6682',"Exception Property","topic_0000000000000DB1.html",0],['6683',"Rule Property","topic_0000000000000DAF.html",0]];

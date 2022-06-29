@@ -1,0 +1,1 @@
+search_result['10227']=["topic_00000000000017A5.html","NutrientVector(IEnumerable\u0026lt;Nullable\u0026lt;NutrientQuantity\u0026gt;\u0026gt;, Boolean) Constructor","Initializes a new instance of the NutrientVector class."];

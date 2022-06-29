@@ -1,0 +1,1 @@
+search_result['6633']=["topic_0000000000000F13.html","AggregateFood(Nullable\u0026lt;Guid\u0026gt;, String, ConversionMap, Unit, Amount) Constructor","Initializes a new instance of the AggregateFood class."];

@@ -1,0 +1,1 @@
+search_result['9023']=["topic_00000000000014D6.html","FoodVisitorFactoryBase Class","A default implementation of an IFoodVisitorFactory."];

@@ -1,0 +1,1 @@
+search_result['4601']=["topic_0000000000000A70.html","AuthorizationRepositoryAdapter.GetEntitiesGroupByName Method","Gets the entities group by its groupName"];

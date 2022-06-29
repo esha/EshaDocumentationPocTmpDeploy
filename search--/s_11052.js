@@ -1,0 +1,1 @@
+search_result['11052']=["topic_00000000000019A2.html","QuantityVector.Negate Method",""];

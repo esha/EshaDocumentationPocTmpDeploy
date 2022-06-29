@@ -1,0 +1,1 @@
+c['2026']=[['2027',"InvalidFoodItemModificationDomainException(SerializationInfo, StreamingContext) Constructor","topic_00000000000015EA.html",0],['2028',"InvalidFoodItemModificationDomainException(FoodItem, Food) Constructor","topic_00000000000015E9.html",0]];

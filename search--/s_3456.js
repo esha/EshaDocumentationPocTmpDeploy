@@ -1,0 +1,1 @@
+search_result['3456']=["topic_0000000000000825.html","INutrientTransform.Inverse Property","Gets the inverse of the transform, a INutrientTransform such that\r\nnutrientTransform.Inverse.Transform(nutrientTransform.Transform(vector)) == vector."];

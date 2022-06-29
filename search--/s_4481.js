@@ -1,0 +1,1 @@
+search_result['4481']=["topic_0000000000000A21.html","GenericCompositeUserType\u0026lt;T\u0026gt;.PropertyNames Property","An array of property names to map to the {T}. This should correspond to the column structure left-to-right."];

@@ -1,0 +1,1 @@
+search_result['4594']=["topic_0000000000000A69.html","AuthorizationRepositoryAdapter.RemoveOperation Method","Removes the specified operation.\r\n            Will also delete all permissions for this operation"];

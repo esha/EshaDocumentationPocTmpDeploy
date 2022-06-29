@@ -1,0 +1,1 @@
+search_result['14174']=["topic_0000000000002348.html","UnitOfWorkCompleteEventArgs.WasRolledBack Property","Gets a value indicating of the IUnitOfWork completed by being rolled back."];

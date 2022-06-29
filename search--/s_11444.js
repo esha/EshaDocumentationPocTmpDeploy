@@ -1,0 +1,1 @@
+search_result['11444']=["topic_0000000000001A87_overloads--.html","ServingBasedAggregateFood.SetNumberOfServings Method","Sets the number of servings for this recipe. We store this information in the Food.DefiningAmount."];

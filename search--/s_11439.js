@@ -1,0 +1,1 @@
+search_result['11439']=["topic_0000000000001A83.html","ServingBasedAggregateFood.IsServingAmountFixed Property","Gets a value indicating whether the serving size for the food is fixed to a specific weight."];

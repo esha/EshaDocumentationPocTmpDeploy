@@ -1,0 +1,1 @@
+c['5651']=[['5652',"PermissionsServiceAdapter Constructor","topic_0000000000000B2A.html",0],['5653',"Methods","topic_0000000000000B29_methods--.html",1]];

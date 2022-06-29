@@ -1,0 +1,1 @@
+search_result['11058']=["topic_00000000000019A7_overloads--.html","QuantityVector.Equals Method","Indicates whether the current object is equal to another object of the same type."];

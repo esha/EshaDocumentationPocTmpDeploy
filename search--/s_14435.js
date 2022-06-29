@@ -1,0 +1,1 @@
+search_result['14435']=["topic_00000000000023C5.html","IRepository\u0026lt;TRootEntity\u0026gt; Interface","An interface to a collection of entities of type TRootEntity."];

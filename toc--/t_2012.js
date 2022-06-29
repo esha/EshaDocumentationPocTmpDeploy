@@ -1,0 +1,1 @@
+c['2012']=[['2013',"InitialWeightComputer() Constructor","topic_00000000000015C0.html",0],['2014',"InitialWeightComputer(ILogger, INutrientComputerContext, Amount) Constructor","topic_00000000000015C1.html",0]];

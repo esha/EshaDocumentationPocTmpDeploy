@@ -1,0 +1,1 @@
+c['6673']=[['6674',"Apply Method","topic_0000000000000DA7.html",0],['6675',"ForType Method","topic_0000000000000DA6.html",0],['6676',"RuleAppliesToEntity Method","topic_0000000000000DA8.html",0]];

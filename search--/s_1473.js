@@ -1,0 +1,1 @@
+search_result['1473']=["topic_00000000000003EB.html","NHibernateUnitTest\u0026lt;TFixture\u0026gt;.Dispose Method","Checks that the test case cleans up after itself."];

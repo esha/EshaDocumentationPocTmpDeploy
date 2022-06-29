@@ -1,0 +1,1 @@
+search_result['6878']=["topic_0000000000000FB7.html","AmountVertex.Quantity Property","Gets the quantity of the amount on this vertex."];

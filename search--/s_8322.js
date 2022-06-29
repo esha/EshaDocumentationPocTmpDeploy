@@ -1,0 +1,1 @@
+search_result['8322']=["topic_00000000000012E3.html","Food.GlycemicIndex Property","Gets or sets the Glycemic index"];

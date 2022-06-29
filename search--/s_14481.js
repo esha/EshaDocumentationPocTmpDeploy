@@ -1,0 +1,1 @@
+search_result['14481']=["topic_00000000000023E0.html","IUnitOfWork.Clear Method","Completely clears the underlying session. Evicts all entities and cancels all pending save/update/delete operations."];

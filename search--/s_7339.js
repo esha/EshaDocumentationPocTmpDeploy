@@ -1,0 +1,1 @@
+search_result['7339']=["topic_00000000000010D1.html","BigRationalQuantity.ToDouble Method",""];

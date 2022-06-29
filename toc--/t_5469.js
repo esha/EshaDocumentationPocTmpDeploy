@@ -1,0 +1,1 @@
+c['5469']=[['5470',"FoodNHibernateConfigurationBase Constructor","topic_0000000000000A84.html",0],['5471',"Properties","topic_0000000000000A83_props--.html",1],['5483',"Methods","topic_0000000000000A83_methods--.html",1]];

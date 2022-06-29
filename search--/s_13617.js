@@ -1,0 +1,1 @@
+search_result['13617']=["topic_00000000000021FE.html","TestRepositoryInterceptor.GetEntityByName Property","Gets or sets the method used to intercept INamedItemRepository\u003cTEntity\u003e.GetByName."];

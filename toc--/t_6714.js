@@ -1,0 +1,1 @@
+c['6714']=[['6715',"Apply Method","topic_0000000000000D97.html",0],['6716',"ForType Method","topic_0000000000000D96.html",0]];

@@ -1,0 +1,1 @@
+search_result['8467']=["topic_000000000000135C.html","Food.ComputeDefiningAmount Method","Computes the defining amount of the food, which to base scaling computations."];

@@ -1,0 +1,1 @@
+search_result['9060']=["topic_00000000000014F0.html","GraphBuildingFoodVisitor\u0026lt;TGraph, TVertex, TEdge, TVisitation\u0026gt; Class","A OldFoodVisitor which builds a bidirectional directional acyclic graph of the composition of the food in order to perform\r\ngraph algorithms like edge traversal or cyclic checking."];

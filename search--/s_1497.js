@@ -1,0 +1,1 @@
+search_result['1497']=["topic_00000000000003FC.html","NHibernateUnitTestFixture.Dispose Method","Removes the tables used in this TestCase."];

@@ -1,0 +1,1 @@
+c['1595']=[['1596',"FoodItemCostEdge Constructor","topic_000000000000141A.html",0],['1597',"Properties","topic_0000000000001419_props--.html",1]];

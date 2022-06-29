@@ -1,0 +1,1 @@
+c['3605']=[['3606',"WeightResult Constructor","topic_0000000000001C9A_overloads--.html",1],['3609',"Properties","topic_0000000000001C99_props--.html",1],['3615',"Methods","topic_0000000000001C99_methods--.html",1]];

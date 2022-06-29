@@ -1,0 +1,1 @@
+search_result['8349']=["topic_00000000000012FE.html","Food.IndexedAnalysis Property","Nutrient data gathered during the latest analysis for 100 grams. Null if a 100 gram analysis does not exist.\r\nor grams are not an available unit."];

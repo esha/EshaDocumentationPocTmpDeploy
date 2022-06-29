@@ -1,0 +1,1 @@
+search_result['7145']=["topic_000000000000106E.html","AuditEntry.InternalClone Method","Creates a clone of this entity. All entity references will be copied, but not the\r\nentity the reference points to."];

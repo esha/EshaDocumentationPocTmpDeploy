@@ -1,0 +1,1 @@
+search_result['7630']=["topic_0000000000001162.html","ConversionMap.AddConversion (Amount, Amount) Method","Asserts an equality of one amount to another amount (e.g. \"1 Large = 2.5 Small\")."];

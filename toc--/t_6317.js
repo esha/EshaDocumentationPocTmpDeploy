@@ -1,0 +1,1 @@
+c['6317']=[['6318',"Evaluate(IFoodUnitOfWork, Recipe, Amount, Recipe, CancellationToken) Method","topic_0000000000000C6D.html",0],['6319',"Evaluate(Recipe, IFoodUnitOfWork, NccSelectionDetails, CancellationToken) Method","topic_0000000000000C6E.html",0]];

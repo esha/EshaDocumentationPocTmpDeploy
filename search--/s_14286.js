@@ -1,0 +1,1 @@
+search_result['14286']=["topic_000000000000237D.html","EshaEntity.GetDebugView Method","A view of the entity used during debugging."];

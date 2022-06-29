@@ -1,0 +1,1 @@
+search_result['3060']=["topic_000000000000077E.html","IFoodFactory.CreateRecipeWithNumberOfServings (Nullable\u0026lt;Guid\u0026gt;, String, Quantity) Method","Creates a recipe with number of servings."];

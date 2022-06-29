@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000002442.html"],['7147',"Esha.DomainModel.Tasks Namespace","topic_0000000000000EBD.html"],['7162',"DefaultDomainTaskFactory Class","topic_0000000000000EC8.html"],['7163',"DefaultDomainTaskFactory Constructor","topic_0000000000000EC9.html"]];

@@ -1,0 +1,1 @@
+search_result['1480']=["topic_00000000000003F0.html","NHibernateUnitTest\u0026lt;TFixture\u0026gt;.SetFixture Method","Called on the test class just before each test method is run,\r\n            passing the fixture data so that it can be used for the test.\r\n            All test runs share the same instance of fixture d..."];

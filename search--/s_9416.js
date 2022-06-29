@@ -1,0 +1,1 @@
+search_result['9416']=["topic_00000000000015C4.html","InitialWeightComputer.Compute (NutrientProfile, ConversionMap) Method","Computes the StandardNutrients.TotalWeight from the existing nutrients in\r\nnutrientProfile, using conversionMap for unit conversions."];

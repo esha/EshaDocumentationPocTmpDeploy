@@ -1,0 +1,1 @@
+c['5612']=[['5613',"Fatal(object) Method","topic_0000000000000B1A.html",0],['5614',"Fatal(object, Exception) Method","topic_0000000000000B19.html",0]];

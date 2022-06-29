@@ -1,0 +1,1 @@
+search_result['5716']=["topic_0000000000000D03.html","RegulationLanguage.CopyTo Method","Copies the state of the entity to another entity of the same type."];

@@ -1,0 +1,1 @@
+search_result['5092']=["topic_0000000000000BA3_overloads--.html","PersistentNutrientVector.Slice Method","Gets a projection of this vector for the given nutrients."];

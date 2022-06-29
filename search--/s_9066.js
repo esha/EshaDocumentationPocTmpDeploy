@@ -1,0 +1,1 @@
+search_result['9066']=["topic_00000000000014F1.html","GraphBuildingFoodVisitor\u0026lt;TGraph, TVertex, TEdge, TVisitation\u0026gt;(IFoodVisitorContext, Amount, TGraph, Boolean) Constructor",""];

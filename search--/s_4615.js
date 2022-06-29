@@ -1,0 +1,1 @@
+search_result['4615']=["topic_0000000000000A7A.html","AuthorizationRepositoryAdapter.RemoveUser Method","Removes the user from rhino security.\r\n            This does NOT delete the user itself, merely reset all the\r\n            information that rhino security knows about it.\r\n            It also allows i..."];

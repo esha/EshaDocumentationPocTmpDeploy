@@ -1,0 +1,1 @@
+search_result['6376']=["topic_0000000000000E8D_overloads--.html","RhinoSecurityIQueryableExtensions.FilterByPermissions\u0026lt;TEntity\u0026gt; Method","Filter out all entities on which the given user\u0027s given UsersGroup lacks permission to do the given operation."];

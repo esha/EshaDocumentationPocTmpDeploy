@@ -1,0 +1,1 @@
+c['6584']=[['6585',"Equals(Regulation) Method","topic_0000000000000CF4.html",0]];

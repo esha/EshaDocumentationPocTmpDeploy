@@ -1,0 +1,1 @@
+c['1393']=[['1394',"FoodAnalysisVertex Constructor","topic_0000000000001368.html",0],['1395',"Properties","topic_0000000000001367_props--.html",1]];

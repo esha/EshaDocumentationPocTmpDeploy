@@ -1,0 +1,1 @@
+search_result['10370']=["topic_0000000000001802.html","ObservableFoodVisitor Class","An implementation of FoodVisitor that creates a stream of events of type FoodVisitation that can be\r\nobserved by a FoodVisitListener. This realizes both the visitor pattern and the publish/subscribe p..."];

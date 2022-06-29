@@ -1,0 +1,1 @@
+c['9992']=[['9993',"SomeOtherRegulationChinese Property","topic_0000000000002045.html",0],['9994',"UsEnglish Property","topic_0000000000002042.html",0],['9995',"UsFrench Property","topic_0000000000002044.html",0],['9996',"UsSpanish Property","topic_0000000000002043.html",0]];

@@ -1,0 +1,1 @@
+c['4358']=[['4359',"NHibernateRepository(Type, IUnitOfWork, ISession, ILogger, IDomainExceptionMapper) Constructor","topic_00000000000022CE.html",0],['4360',"NHibernateRepository(Type, IUnitOfWork, IStatelessSession, ILogger, IDomainExceptionMapper) Constructor","topic_00000000000022CF.html",0]];

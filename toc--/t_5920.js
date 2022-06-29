@@ -1,0 +1,1 @@
+c['5920']=[['5921',"DocumentFields Property","topic_00000000000009EC.html",0],['5922',"EntityId Property","topic_00000000000009E8.html",0],['5923',"EntityType Property","topic_00000000000009E9.html",0],['5924',"Relevancy Property","topic_00000000000009EA.html",0],['5925',"SearchFields Property","topic_00000000000009EB.html",0]];

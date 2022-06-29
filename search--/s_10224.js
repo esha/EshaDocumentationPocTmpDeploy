@@ -1,0 +1,1 @@
+search_result['10224']=["topic_00000000000017A3_overloads--.html","NutrientVector Constructor","Initializes a new instance of the NutrientVector class as a zero vector."];

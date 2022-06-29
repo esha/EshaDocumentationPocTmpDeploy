@@ -1,0 +1,1 @@
+c['8479']=[['8480',"OwnOperationGrantsAccessOfUsersToEntities Method","topic_0000000000000464.html",0],['8481',"UsersAreAllowedOperationsBasedOnUsersGroupPermissions Method","topic_0000000000000465.html",0]];

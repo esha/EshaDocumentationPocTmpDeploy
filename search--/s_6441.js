@@ -1,0 +1,1 @@
+search_result['6441']=["topic_0000000000000EB0.html","SecurityPermissions.Allow Property","Gets an immutable Permission instance that always allows authorization"];

@@ -1,0 +1,1 @@
+c['8447']=[['8448',"RegulationAllergenCreation_IntTest Method","topic_0000000000000449.html",0],['8449',"RegulationAllergenLoads_IntTest Method","topic_000000000000044A.html",0],['8450',"RegulationContainsAllergen_IntTest Method","topic_000000000000044B.html",0]];

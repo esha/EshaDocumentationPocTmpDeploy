@@ -1,0 +1,1 @@
+search_result['6681']=["topic_0000000000000F3A.html","AggregateFood.GetDefiningAmountScalarFor Method","The get base amount scalar for."];

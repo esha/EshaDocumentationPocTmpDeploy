@@ -1,0 +1,1 @@
+search_result['11705']=["topic_0000000000001C24.html","VersionedEntity.OnGetObjectData Method","Gets the object data during serialization."];

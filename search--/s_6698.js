@@ -1,0 +1,1 @@
+search_result['6698']=["topic_0000000000000F44_overloads--.html","AggregateVersion.Combine Method","Creates a new AggregateVersion from this instance and a sequence of other AggregateVersion instances."];

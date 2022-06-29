@@ -1,0 +1,1 @@
+search_result['4807']=["topic_0000000000000AEF.html","NHibernateFoodUnitOfWorkFactory(Func\u0026lt;IApplicationPathsIDatabaseManager\u0026gt;, IDatabaseMigrator, IDomainExceptionMapper, IApplicationPaths, ILoggerFactory, IMetaDataProvider) Constructor",""];

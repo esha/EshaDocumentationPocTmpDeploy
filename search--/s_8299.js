@@ -1,0 +1,1 @@
+search_result['8299']=["topic_00000000000012CC.html","Food.DefiningAmount Property","Gets or sets the base Amount for which all other amounts\r\n    in the map are computed with respect to."];

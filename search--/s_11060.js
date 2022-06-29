@@ -1,0 +1,1 @@
+search_result['11060']=["topic_00000000000019A9.html","QuantityVector.Equals (Object) Method","Determines whether the specified object is equal to the current object."];

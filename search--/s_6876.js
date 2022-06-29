@@ -1,0 +1,1 @@
+search_result['6876']=["topic_0000000000000FB5.html","AmountVertex.Dimension Property","Gets the Dimension of the vertex Unit."];

@@ -1,0 +1,1 @@
+search_result['4028']=["topic_0000000000000943_overloads--.html","AnalysisClassBridge.Set Method","Indexes net nutrient amounts from an Analysis instance if the amount is known (e.g. Calories:\"0000000010.00\")."];

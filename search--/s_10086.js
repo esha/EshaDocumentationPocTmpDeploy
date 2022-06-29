@@ -1,0 +1,1 @@
+search_result['10086']=["topic_0000000000001749.html","NutrientProfile(Amount, ConversionMap) Constructor","Initializes a new instance of the NutrientProfile class."];

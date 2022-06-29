@@ -1,0 +1,1 @@
+search_result['10252']=["topic_00000000000017B6.html","NutrientVector.SpecifiedNutrients Property","Gets the specified indexes."];

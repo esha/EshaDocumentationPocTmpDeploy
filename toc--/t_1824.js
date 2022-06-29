@@ -1,0 +1,1 @@
+c['1824']=[['1825',"CreateCostVisitor() Method","topic_00000000000014DE.html",0],['1826',"CreateCostVisitor(Amount, IFoodVisitorContext, bool) Method","topic_00000000000014DF.html",0]];

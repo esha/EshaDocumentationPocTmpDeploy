@@ -1,0 +1,1 @@
+search_result['5551']=["topic_0000000000000CA6.html","UsageProfile.ShowBrandInSearchResults Property","True if the user would like to see brand information in search results for foods. Otherwise, hide brand information."];

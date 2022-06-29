@@ -1,0 +1,1 @@
+search_result['9136']=["topic_0000000000001527.html","Group.IsUserAdded Property","Gets or sets a value indicating whether this group was created by the user."];

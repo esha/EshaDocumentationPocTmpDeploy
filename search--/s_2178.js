@@ -1,0 +1,1 @@
+search_result['2178']=["topic_0000000000000588.html","RegulationRulesTestsBase.MockRegulationRepository Property",""];

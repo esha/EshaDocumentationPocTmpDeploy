@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000002442.html"],['60',"Esha.DomainModel Namespace","topic_000000000000064C.html"],['1456',"FoodGraph\u003cTVertex, TEdge\u003e Class","topic_000000000000139B.html"],['1512',"Events","topic_000000000000139B_events--.html"],['1516',"FoodGraph.VertexAdded Event","topic_00000000000013A1.html"]];

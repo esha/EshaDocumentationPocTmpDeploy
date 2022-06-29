@@ -1,0 +1,1 @@
+search_result['14573']=["topic_000000000000240E.html","QueryProviderExceptionWrapper Constructor","Initializes a new instance of the QueryProviderExceptionWrapper class\r\nwith the given provider and exceptionMapper."];

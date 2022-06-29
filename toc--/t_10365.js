@@ -1,0 +1,1 @@
+c['10365']=[['10366',"UnsupportedOperationInterceptor Class","topic_0000000000002235.html",1],['10369',"TestUnitOfWorkFactory Constructor","topic_0000000000002226.html",0],['10370',"Properties","topic_0000000000002225_props--.html",1],['10372',"Methods","topic_0000000000002225_methods--.html",1]];

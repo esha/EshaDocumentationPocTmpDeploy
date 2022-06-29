@@ -1,0 +1,1 @@
+search_result['6695']=["topic_0000000000000F43.html","AggregateVersion.Combine (AggregateVersion()) Method","Creates a new AggregateVersion from this instance and a sequence of other AggregateVersion instances."];

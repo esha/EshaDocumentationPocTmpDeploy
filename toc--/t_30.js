@@ -1,0 +1,1 @@
+c['30']=[['31',"SqlServerDatabaseManager Constructor","topic_0000000000001CBF.html",0],['32',"Properties","topic_0000000000001CBE_props--.html",1],['42',"Methods","topic_0000000000001CBE_methods--.html",1]];

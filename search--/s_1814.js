@@ -1,0 +1,1 @@
+search_result['1814']=["topic_00000000000004B3.html","TestDataReader.GetDecimal Method","Gets the fixed-position numeric value of the specified field."];

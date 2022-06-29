@@ -1,0 +1,1 @@
+c['1532']=[['1533',"FoodItem Constructor","topic_00000000000013E2_overloads--.html",1],['1537',"Properties","topic_00000000000013E1_props--.html",1],['1560',"Methods","topic_00000000000013E1_methods--.html",1]];

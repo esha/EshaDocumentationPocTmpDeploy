@@ -1,0 +1,1 @@
+search_result['6843']=["topic_0000000000000FA0.html","Amount.GetHashCode Method","Serves as a hash function for a particular type."];

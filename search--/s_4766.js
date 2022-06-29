@@ -1,0 +1,1 @@
+search_result['4766']=["topic_0000000000000ACB.html","NHibernateFoodUnitOfWork.CreateNutrientProfileFactory Method","Gets a nutrient profile factory."];

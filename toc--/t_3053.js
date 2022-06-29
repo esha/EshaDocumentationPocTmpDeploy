@@ -1,0 +1,1 @@
+c['3053']=[['3054',"RationalQuantity Constructor","topic_00000000000019AC.html",0],['3055',"Properties","topic_00000000000019AB_props--.html",1],['3060',"Methods","topic_00000000000019AB_methods--.html",1]];

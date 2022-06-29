@@ -1,0 +1,1 @@
+search_result['11907']=["topic_0000000000001CAE.html","Sql2008DatabaseManager Constructor","Initializes a new instance of the Sql2008DatabaseManager class."];

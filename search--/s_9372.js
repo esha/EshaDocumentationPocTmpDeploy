@@ -1,0 +1,1 @@
+search_result['9372']=["topic_00000000000015A2.html","Ingredient.FoodType Property","Gets or sets a FoodType value indicating the type of the food."];

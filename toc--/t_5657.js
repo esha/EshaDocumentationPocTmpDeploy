@@ -1,0 +1,1 @@
+c['5657']=[['5658',"GetPermissionsFor(IUser) Method","topic_0000000000000B2B.html",0],['5659',"GetPermissionsFor(string) Method","topic_0000000000000B2F.html",0],['5660',"GetPermissionsFor(string[]) Method","topic_0000000000000B30.html",0]];

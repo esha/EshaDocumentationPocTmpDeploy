@@ -1,0 +1,1 @@
+c['1345']=[['1346',"FindRightScalar(Amount, Amount) Method","topic_0000000000001331.html",0],['1347',"FindRightScalar(Amount, Unit) Method","topic_0000000000001332.html",0],['1348',"FindRightScalar(Unit, Unit) Method","topic_0000000000001333.html",0]];

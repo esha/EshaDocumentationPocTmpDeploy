@@ -1,0 +1,1 @@
+search_result['13992']=["topic_00000000000022CD.html","NHibernateRepository Class","An IRepository based on an NHibernate ISession\r\nor IStatelessSession."];

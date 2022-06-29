@@ -1,0 +1,1 @@
+search_result['7583']=["topic_0000000000001144.html","Conversion.ScaleOf (StandardUnits, StandardUnits) Method","Gets either the quantity of the conversion of From to To or its Quantity.Inverse\r\ndepending on the order of from and to."];

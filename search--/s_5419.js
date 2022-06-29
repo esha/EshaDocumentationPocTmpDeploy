@@ -1,0 +1,1 @@
+search_result['5419']=["topic_0000000000000C60.html","NutrientContentClaim Class","A claim that can be made about a nutrient in a food as defined by a specific\r\nregulation.  Eg: \"Low Fat\" or \"High in Vitamin C\" as defined by regulation US 2016.\r\nEach regulation has its own collectio..."];

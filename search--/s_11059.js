@@ -1,0 +1,1 @@
+search_result['11059']=["topic_00000000000019A8.html","QuantityVector.GetEnumerator Method","Returns an enumerator that iterates through the collection."];

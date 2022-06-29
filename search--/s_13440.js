@@ -1,0 +1,1 @@
+search_result['13440']=["topic_00000000000021A6.html","defaultClaimTextIndex Field",""];

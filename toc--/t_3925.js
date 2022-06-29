@@ -1,0 +1,1 @@
+c['3925']=[['3926',"FoodAttribute Constructor","topic_0000000000000665_overloads--.html",1],['3930',"Properties","topic_0000000000000664_props--.html",1],['3934',"Methods","topic_0000000000000664_methods--.html",1]];

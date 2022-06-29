@@ -1,0 +1,1 @@
+search_result['4937']=["topic_0000000000000B2D.html","PermissionsServiceAdapter.GetGlobalPermissionsFor (IUser, String) Method","Gets the permissions for the specified entity"];

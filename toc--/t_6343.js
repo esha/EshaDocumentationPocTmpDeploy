@@ -1,0 +1,1 @@
+c['6343']=[['6344',"Claim Property","topic_0000000000000C82.html",0],['6345',"ClaimText Property","topic_0000000000000C83.html",0],['6346',"NccSelectionDetails Property","topic_0000000000000C84.html",0],['6347',"Recipe Property","topic_0000000000000C81.html",0],['6348',"UserVerified Property","topic_0000000000000C85.html",0]];

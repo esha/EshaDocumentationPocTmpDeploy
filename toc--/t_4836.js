@@ -1,0 +1,1 @@
+c['4836']=[['4837',"ComputeNumberOfServings Method","topic_000000000000075C.html",0],['4838',"GetServingSize Method","topic_000000000000075E.html",0],['4839',"SetNumberOfServings Method","topic_000000000000075D.html",0],['4840',"SetServingSize Method","topic_000000000000075F.html",0],['4841',"SetServingWeightInGrams Method","topic_0000000000000760.html",0]];

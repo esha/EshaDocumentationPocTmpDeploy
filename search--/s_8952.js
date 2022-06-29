@@ -1,0 +1,1 @@
+search_result['8952']=["topic_0000000000001496_overloads--.html","FoodVisitor Constructor","Initializes a new instance of the FoodVisitor class."];

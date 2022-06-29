@@ -1,0 +1,1 @@
+search_result['10163']=["topic_0000000000001778.html","NutrientQuantityVector.Equals (NutrientQuantityVector) Method","Indicates whether the current object is equal to another object of the same type."];

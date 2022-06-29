@@ -1,0 +1,1 @@
+search_result['14474']=["topic_00000000000023D9.html","IUnitOfWork.IsComplete Property","Gets a value indicating whether this unit of work is complete."];

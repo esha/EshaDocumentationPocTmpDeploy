@@ -1,0 +1,1 @@
+search_result['9513']=["topic_00000000000015F6.html","InverseNutrientTransform.IsClaimTransform Property","Gets a value indicating whether the transform is to be applied in order to compute the nutrient claim values, not actual values."];

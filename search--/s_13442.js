@@ -1,0 +1,1 @@
+search_result['13442']=["topic_00000000000021A8.html","qualifyingConditions Field",""];

@@ -1,0 +1,1 @@
+search_result['14475']=["topic_00000000000023DA.html","IUnitOfWork.WasCommitted Property","Gets a value indicating whether this unit of work was committed, instead of rolled back."];

@@ -1,0 +1,1 @@
+search_result['14077']=["topic_0000000000002306.html","NHibernateUnitOfWorkFactory\u0026lt;TUnitOfWork, TBulkLoadUnitOfWork\u0026gt;(ISessionFactory) Constructor",""];

@@ -1,0 +1,1 @@
+c['3192']=[['3193',"Nutrient Property","topic_0000000000001A1F.html",0],['3194',"RangeHighValue Property","topic_0000000000001A22.html",0],['3195',"RangeLowValue Property","topic_0000000000001A21.html",0],['3196',"RecommendationType Property","topic_0000000000001A23.html",0],['3197',"RecommendedValue Property","topic_0000000000001A20.html",0]];

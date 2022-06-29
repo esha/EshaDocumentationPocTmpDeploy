@@ -1,0 +1,1 @@
+search_result['4392']=["topic_00000000000009EB.html","FullTextSearchResult.SearchFields Property","A read-only dictionary of projected properites from the Lucene document."];

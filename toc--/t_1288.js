@@ -1,0 +1,1 @@
+c['1288']=[['1289',"AddAllergen(AllergenGroup) Method","topic_000000000000131E.html",0],['1290',"AddAllergen(Allergen, AllergenOccurrence) Method","topic_00000000000012C1.html",0],['1291',"AddAllergen(FoodAllergen) Method","topic_00000000000012C2.html",0]];

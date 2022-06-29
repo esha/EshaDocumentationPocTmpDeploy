@@ -1,0 +1,1 @@
+search_result['10379']=["topic_0000000000001806.html","ObservableFoodVisitor.SubscribeAll Method","Subscribes all observers to receive visit events."];

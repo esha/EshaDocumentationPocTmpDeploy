@@ -1,0 +1,1 @@
+c['5800']=[['5801',"Initialize(bool) Method","topic_0000000000000BB7.html",0]];

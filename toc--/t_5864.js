@@ -1,0 +1,1 @@
+c['5864']=[['5865',"Initialize Method","topic_0000000000000BE5.html",0],['5866',"NeedsInserting Method","topic_0000000000000BE0.html",0],['5867',"Read Method","topic_0000000000000BE1.html",0],['5868',"ReadElementByIndex Method","topic_0000000000000BE2.html",0],['5869',"ReadFrom Method","topic_0000000000000BE3.html",0],['5870',"ReadSize Method","topic_0000000000000BE4.html",0]];

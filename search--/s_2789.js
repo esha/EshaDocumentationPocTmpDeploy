@@ -1,0 +1,1 @@
+search_result['2789']=["topic_000000000000070A.html","TextElementList(IComparer\u0026lt;ITextElement\u0026gt;, IEqualityComparer\u0026lt;ITextElement\u0026gt;) Constructor",""];

@@ -1,0 +1,1 @@
+search_result['10917']=["topic_0000000000001950.html","Quantity.Equality (Quantity, Quantity) Operator",""];

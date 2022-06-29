@@ -1,0 +1,1 @@
+search_result['8315']=["topic_00000000000012DC.html","Food.FoodGraph Property","Gets or sets a lightweight graph that contains all levels of associations between this Food and its ancestors and descendents.\r\nUseful for quickly validating whether or not an amount of a Food can be ..."];

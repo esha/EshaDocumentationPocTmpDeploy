@@ -1,0 +1,1 @@
+search_result['11433']=["topic_0000000000001A80.html","ServingBasedAggregateFood(Nullable\u0026lt;Guid\u0026gt;, String, ConversionMap, Unit, Amount) Constructor","Initializes a new instance of the Recipe class."];

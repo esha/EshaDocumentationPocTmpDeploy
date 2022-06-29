@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000002442.html"],['7394',"Esha.DomainModel.Tests.Model Namespace","topic_000000000000008E.html"],['7713',"FoodFactoryTests Class","topic_00000000000001BB.html"],['7722',"Methods","topic_00000000000001BB_methods--.html"],['7744',"CloningTransformsIsCorrect Method","topic_00000000000001CC.html"]];

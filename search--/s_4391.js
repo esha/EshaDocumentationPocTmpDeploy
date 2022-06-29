@@ -1,0 +1,1 @@
+search_result['4391']=["topic_00000000000009EA.html","FullTextSearchResult.Relevancy Property","The relevancy score of the search result."];

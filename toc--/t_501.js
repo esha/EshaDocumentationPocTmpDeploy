@@ -1,0 +1,1 @@
+c['501']=[['502',"BaseCalorieComputer Constructor","topic_000000000000107E.html",0],['503',"Properties","topic_000000000000107D_props--.html",1],['509',"Methods","topic_000000000000107D_methods--.html",1]];

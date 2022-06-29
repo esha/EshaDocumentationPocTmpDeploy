@@ -1,0 +1,1 @@
+search_result['10490']=["topic_000000000000185D.html","OldFoodVisitor.PushAmount Method","Pushes the amount of food being visited at CurrentFoodItemPath to a stack of amounts, one per path segment, making\r\nit the current amount being visited via CurrentFoodAmount."];

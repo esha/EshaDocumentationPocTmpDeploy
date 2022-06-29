@@ -1,0 +1,1 @@
+search_result['14034']=["topic_00000000000022E9.html","NHibernateRepository\u0026lt;TEntity\u0026gt;(IUnitOfWork, ISession, ILogger, IDomainExceptionMapper) Constructor",""];

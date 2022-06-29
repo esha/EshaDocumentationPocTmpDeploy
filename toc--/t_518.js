@@ -1,0 +1,1 @@
+c['518']=[['519',"BaseWeightComputer Constructor","topic_000000000000108C_overloads--.html",1],['522',"Properties","topic_000000000000108B_props--.html",1],['526',"Methods","topic_000000000000108B_methods--.html",1]];

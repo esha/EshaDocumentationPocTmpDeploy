@@ -1,0 +1,1 @@
+search_result['6765']=["topic_0000000000000F70.html","AllergenStatement(Food, Regulation, String, AllergenStatementPrefix, AllergenStatementPrefix, GlobalString, GlobalString, Boolean, EshaUser) Constructor",""];

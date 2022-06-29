@@ -1,0 +1,1 @@
+search_result['6749']=["topic_0000000000000F60.html","AllergenGroup.CompareTo (AllergenGroup) Method","Compares the current object with another object of the same type."];

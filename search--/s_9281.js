@@ -1,0 +1,1 @@
+search_result['9281']=["topic_0000000000001575.html","IMakeReadOnly Interface","Interface for making an instance readonly."];

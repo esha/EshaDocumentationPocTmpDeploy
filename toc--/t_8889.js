@@ -1,0 +1,1 @@
+c['8889']=[['8890',"AuthorizationServiceTests Constructor","topic_00000000000005CB.html",0],['8891',"Properties","topic_00000000000005CA_props--.html",1],['8901',"Methods","topic_00000000000005CA_methods--.html",1]];

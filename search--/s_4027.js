@@ -1,0 +1,1 @@
+search_result['4027']=["topic_0000000000000943.html","AnalysisClassBridge.Set (String, Object, Document, Store, Nullable\u0026lt;Boolean\u0026gt;) Method","Indexes net nutrient amounts from an Analysis instance if the amount is known (e.g. Calories:\"0000000010.00\")."];

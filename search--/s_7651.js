@@ -1,0 +1,1 @@
+search_result['7651']=["topic_0000000000001171.html","ConversionMap.FindLeftScalar (Unit, Unit) Method","Computes a scalar Quantity \"k\" converting 1 unit of\r\nfrom into 1 unit of to such that it satisfies the equation:\r\nk * from == to."];

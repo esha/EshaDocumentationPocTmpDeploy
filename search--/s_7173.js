@@ -1,0 +1,1 @@
+search_result['7173']=["topic_000000000000107C.html","BaseAdjustingCalorieComputer.Compute Method",""];

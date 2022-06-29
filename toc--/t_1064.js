@@ -1,0 +1,1 @@
+c['1064']=[['1065',"GreaterThan(BigRational) Method","topic_000000000000125D.html",0],['1066',"GreaterThan(decimal) Method","topic_000000000000125B.html",0],['1067',"GreaterThan(double) Method","topic_000000000000125A.html",0],['1068',"GreaterThan(Quantity) Method","topic_000000000000125E.html",0],['1069',"GreaterThan(Rational) Method","topic_000000000000125C.html",0]];

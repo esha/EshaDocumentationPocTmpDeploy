@@ -1,0 +1,1 @@
+c['2969']=[['2970',"Quantity\u003cT\u003e Constructor","topic_000000000000196A_overloads--.html",1],['2974',"Properties","topic_0000000000001969_props--.html",1],['2977',"Methods","topic_0000000000001969_methods--.html",1]];

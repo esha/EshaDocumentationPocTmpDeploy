@@ -1,0 +1,1 @@
+search_result['6862']=["topic_0000000000000FAB.html","AmountCost.Equals (Object) Method","Determines whether the specified Object is equal to the current Object."];

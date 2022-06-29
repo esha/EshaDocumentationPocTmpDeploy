@@ -1,0 +1,1 @@
+c['1914']=[['1915',"Haccp(SerializationInfo, StreamingContext) Constructor","topic_000000000000153C.html",0],['1916',"Haccp() Constructor","topic_0000000000001539.html",0],['1917',"Haccp(Nullable\u003cGuid\u003e) Constructor","topic_000000000000153A.html",0],['1918',"Haccp(Nullable\u003cGuid\u003e, string) Constructor","topic_000000000000153B.html",0]];

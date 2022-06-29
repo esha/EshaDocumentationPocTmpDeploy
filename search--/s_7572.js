@@ -1,0 +1,1 @@
+search_result['7572']=["topic_000000000000113D.html","Conversion.IsAnyUnit (Unit) Method","Gets a value indicating whether either FromUnit or ToUnit equal unit."];

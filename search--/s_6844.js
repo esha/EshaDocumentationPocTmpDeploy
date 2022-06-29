@@ -1,0 +1,1 @@
+search_result['6844']=["topic_0000000000000FA1.html","AmountCost Class","A pairing of an Amount and a Money value."];

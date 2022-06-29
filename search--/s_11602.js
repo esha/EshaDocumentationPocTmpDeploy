@@ -1,0 +1,1 @@
+search_result['11602']=["topic_0000000000001BE3.html","Unit(Nullable\u0026lt;Guid\u0026gt;, Dimension, String, GlobalString, Nullable\u0026lt;StandardUnits\u0026gt;) Constructor","Initializes a new instance of the Unit class."];

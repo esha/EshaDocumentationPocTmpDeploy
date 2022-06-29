@@ -1,0 +1,1 @@
+search_result['14453']=["topic_00000000000023CE.html","IRepository\u0026lt;TRootEntity\u0026gt;.SaveAll Method","Saves a collection of entities to the repository."];

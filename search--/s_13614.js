@@ -1,0 +1,1 @@
+search_result['13614']=["topic_00000000000021FB.html","TestRepositoryInterceptor.GetStandardEntity Property","Gets or sets the method used to intercept GetStandard."];

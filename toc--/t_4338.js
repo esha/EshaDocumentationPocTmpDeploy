@@ -1,0 +1,1 @@
+c['4338']=[['4339',"NHibernateConfigurationBase Constructor","topic_00000000000022BD.html",0],['4340',"Properties","topic_00000000000022BC_props--.html",1],['4349',"Methods","topic_00000000000022BC_methods--.html",1]];

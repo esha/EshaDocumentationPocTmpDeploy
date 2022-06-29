@@ -1,0 +1,1 @@
+c['4323']=[['4324',"NHibernateBulkLoadRepository\u003cTEntity\u003e Constructor","topic_00000000000022B1.html",0],['4325',"Methods","topic_00000000000022B0_methods--.html",1]];

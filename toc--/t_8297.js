@@ -1,0 +1,1 @@
+c['8297']=[['8298',"IngredientMappingTests Constructor","topic_00000000000003CB.html",0],['8299',"Methods","topic_00000000000003CA_methods--.html",1]];

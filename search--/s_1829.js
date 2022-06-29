@@ -1,0 +1,1 @@
+search_result['1829']=["topic_00000000000004C0.html","TestDataReader.IsClosed Property","Gets a value indicating whether the data reader is closed."];

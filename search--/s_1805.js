@@ -1,0 +1,1 @@
+search_result['1805']=["topic_00000000000004AA.html","TestDataReader.GetChar Method","Gets the character value of the specified column."];

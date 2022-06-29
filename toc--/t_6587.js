@@ -1,0 +1,1 @@
+c['6587']=[['6588',"RegulationAllergen() Constructor","topic_0000000000000CF7.html",0],['6589',"RegulationAllergen(Nullable\u003cGuid\u003e, Regulation, Allergen, string) Constructor","topic_0000000000000CF8.html",0]];

@@ -1,0 +1,1 @@
+c['3926']=[['3927',"FoodAttribute() Constructor","topic_0000000000000665.html",0],['3928',"FoodAttribute(SerializationInfo, StreamingContext) Constructor","topic_0000000000000667.html",0],['3929',"FoodAttribute(Nullable\u003cGuid\u003e, string, FoodAttributeType, CalculatedStrategy) Constructor","topic_0000000000000666.html",0]];

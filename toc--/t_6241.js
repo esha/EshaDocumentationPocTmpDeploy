@@ -1,0 +1,1 @@
+c['6241']=[['6242',"IsMutable Property","topic_0000000000000A41.html",0],['6243',"ReturnedType Property","topic_0000000000000A40.html",0],['6244',"SqlTypes Property","topic_0000000000000A3F.html",0]];

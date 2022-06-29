@@ -1,0 +1,1 @@
+search_result['6859']=["topic_0000000000000FA9.html","AmountCost.Inequality Operator","Inequality operator for AmountCost instances."];

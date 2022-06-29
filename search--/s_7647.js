@@ -1,0 +1,1 @@
+search_result['7647']=["topic_000000000000116F.html","ConversionMap.FindLeftScalar (Amount, Amount) Method","Computes a scalar Quantity \"k\" such that it satisfies the equation: k * from == to."];

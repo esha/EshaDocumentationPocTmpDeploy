@@ -1,0 +1,1 @@
+search_result['4613']=["topic_0000000000000A78.html","AuthorizationRepositoryAdapter.DetachUserFromGroup Method","Removes the user from the specified group"];

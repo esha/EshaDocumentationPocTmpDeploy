@@ -1,0 +1,1 @@
+c['1721']=[['1722',"GetResult Method","topic_000000000000147B.html",0],['1723',"SetResult Method","topic_000000000000147A_overloads--.html",1]];

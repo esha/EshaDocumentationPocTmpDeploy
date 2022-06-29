@@ -1,0 +1,1 @@
+search_result['3044']=["topic_0000000000000776.html","IFoodFactory.CreateIngredient (Nullable\u0026lt;Guid\u0026gt;, String, NutrientProfile, IEnumerable\u0026lt;Conversion\u0026gt;) Method","Creates an ingredient."];

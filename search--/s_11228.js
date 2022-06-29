@@ -1,0 +1,1 @@
+search_result['11228']=["topic_0000000000001A06.html","Recipe.GetNccSelectionDetails Method","Get\u0027s a set of NccSelectionDetails given the specified regulation"];

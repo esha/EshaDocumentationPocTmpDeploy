@@ -1,0 +1,1 @@
+c['5166']=[['5167',"DoubleLabelOption(Guid, Regulation, RegulationNutrient, GlobalString, GlobalString, string, LabelSection, double, double) Constructor","topic_00000000000008E5.html",0],['5168',"DoubleLabelOption() Constructor","topic_00000000000008E4.html",0]];

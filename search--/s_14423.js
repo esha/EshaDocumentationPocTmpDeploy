@@ -1,0 +1,1 @@
+search_result['14423']=["topic_00000000000023BF.html","IRepository.Contains (Guid) Method","Determines if the given id is contained in the repository."];

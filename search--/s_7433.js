@@ -1,0 +1,1 @@
+search_result['7433']=["topic_00000000000010FA.html","CannotConvertAmountDomainException.GetObjectData Method","When overridden in a derived class, sets the SerializationInfo with information about the exception."];

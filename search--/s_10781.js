@@ -1,0 +1,1 @@
+search_result['10781']=["topic_000000000000190B.html","Quantity.Subtraction (Quantity, Nullable\u0026lt;Decimal\u0026gt;) Operator",""];

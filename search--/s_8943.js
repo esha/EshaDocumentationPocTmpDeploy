@@ -1,0 +1,1 @@
+search_result['8943']=["topic_0000000000001494.html","FoodVisitor Class","An implementation of the visitor pattern (see: https://en.wikipedia.org/wiki/Visitor_pattern) for the Food type."];

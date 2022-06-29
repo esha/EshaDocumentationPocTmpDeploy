@@ -1,0 +1,1 @@
+search_result['14451']=["topic_00000000000023CD.html","IRepository\u0026lt;TRootEntity\u0026gt;.Save Method","Saves an entity to the repository."];

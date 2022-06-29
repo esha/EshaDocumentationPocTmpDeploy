@@ -1,0 +1,1 @@
+c['3910']=[['3911',"BooleanCalculatedFoodAttribute Constructor","topic_0000000000000656.html",0],['3912',"Properties","topic_0000000000000655_props--.html",1],['3917',"Methods","topic_0000000000000655_methods--.html",1]];

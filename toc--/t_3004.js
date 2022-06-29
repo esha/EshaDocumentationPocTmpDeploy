@@ -1,0 +1,1 @@
+c['3004']=[['3005',"Reciprocal(T) Method","topic_0000000000001985.html",0],['3006',"Reciprocal() Method","topic_0000000000001986.html",0]];

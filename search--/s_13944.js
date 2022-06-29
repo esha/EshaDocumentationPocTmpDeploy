@@ -1,0 +1,1 @@
+search_result['13944']=["topic_00000000000022AC.html","NHibernateBaseUnitOfWork.GetRepositoryForTypeInternal Method",""];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_0000000000002442.html"],['5300',"Esha.DomainModel.Labeling Namespace","topic_000000000000085E.html"],['5391',"LabelItemFactory Class","topic_00000000000008B5.html"],['5392',"Methods","topic_00000000000008B5_methods--.html"],['5393',"CreateLabelItem Method","topic_00000000000008B6.html"]];

@@ -1,0 +1,1 @@
+search_result['6015']=["topic_0000000000000DA0.html","Rule.Condition Property",""];

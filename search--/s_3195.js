@@ -1,0 +1,1 @@
+search_result['3195']=["topic_00000000000007CD.html","IFoodVisitorBuilder Interface","An interface for a builder that listener extension methods can be applied to to build a ObservableFoodVisitor."];

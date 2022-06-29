@@ -1,0 +1,1 @@
+search_result['10347']=["topic_00000000000017F1.html","ObservableCancellingSubject\u0026lt;T\u0026gt;.ObservableCancellation Property","A CancellationToken used to signal that all subscribed observers are requesting cancellation."];

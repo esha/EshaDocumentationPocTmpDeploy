@@ -1,0 +1,1 @@
+search_result['2260']=["topic_00000000000005C6.html","LuceneQueryBuilderTests.TermsAreGroupedTogether Method",""];

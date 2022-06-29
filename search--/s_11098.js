@@ -1,0 +1,1 @@
+search_result['11098']=["topic_00000000000019BD.html","RationalQuantity.CompareTo (Quantity) Method","Compares the current object with another object of the same type."];

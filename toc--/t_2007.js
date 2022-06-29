@@ -1,0 +1,1 @@
+c['2007']=[['2008',"Compute Method","topic_00000000000015BD_overloads--.html",1],['2010',"GetCaloriesPerGram Method","topic_00000000000015BE.html",0]];

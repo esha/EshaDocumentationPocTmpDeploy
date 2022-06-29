@@ -1,0 +1,1 @@
+search_result['9034']=["topic_00000000000014DB.html","FoodVisitorFactoryBase.CreateActualNutrientsAnalysisVisitor Method","Creates an analysis visitor for the default amount for the food,\r\ngross weight, all nutrients, all yield modifiers with weight in grams."];

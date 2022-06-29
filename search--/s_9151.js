@@ -1,0 +1,1 @@
+search_result['9151']=["topic_0000000000001536.html","GuidComparer.Instance Property","Gets the singleton instance of GuidComparer."];

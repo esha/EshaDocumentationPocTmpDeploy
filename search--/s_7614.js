@@ -1,0 +1,1 @@
+search_result['7614']=["topic_0000000000001155.html","ConversionMap.DirectConversionCount Property","Gets the number of direct, non-trivial conversions present in the map, where a conversion\r\nis a single multiplication to get the requested Amount."];

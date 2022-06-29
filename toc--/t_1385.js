@@ -1,0 +1,1 @@
+c['1385']=[['1386',"FoodAllergen Constructor","topic_0000000000001362_overloads--.html",1],['1389',"Properties","topic_0000000000001361_props--.html",1]];

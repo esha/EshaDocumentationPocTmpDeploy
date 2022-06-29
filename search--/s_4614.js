@@ -1,0 +1,1 @@
+search_result['4614']=["topic_0000000000000A79.html","AuthorizationRepositoryAdapter.DetachEntityFromGroup\u0026lt;TEntity\u0026gt; Method","Removes the entities from the specified group"];

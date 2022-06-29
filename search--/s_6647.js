@@ -1,0 +1,1 @@
+search_result['6647']=["topic_0000000000000F1D.html","AggregateFood.IsAsIsRecomputeNeeded Property","Gets a value indicating whether a call to ComputeAsIs\r\nis needed before conversions can be returned."];

@@ -1,0 +1,1 @@
+c['5430']=[['5431',"AuthorizationRepositoryAdapter Constructor","topic_0000000000000A62.html",0],['5432',"Methods","topic_0000000000000A61_methods--.html",1]];

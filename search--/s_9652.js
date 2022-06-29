@@ -1,0 +1,1 @@
+search_result['9652']=["topic_000000000000163C.html","NameUniquenessExtensions Class","Extension methods that enforce name uniqueness rules for NamedEntity objects."];

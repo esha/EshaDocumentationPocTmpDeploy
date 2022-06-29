@@ -1,0 +1,1 @@
+search_result['10251']=["topic_00000000000017B5.html","NutrientVector.ElementCount Property","Gets the number of specified elements (missing elements are not counted)."];

@@ -1,0 +1,1 @@
+search_result['1812']=["topic_00000000000004B1.html","TestDataReader.GetDouble Method","Gets the double-precision floating point number of the specified field."];
